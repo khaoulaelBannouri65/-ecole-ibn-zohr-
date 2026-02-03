@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="École Privée Ibn Zohr de Formation en Soins Infirmiers - Formation professionnelle en soins infirmiers au Maroc">
+    <title>École Ibn Zohr</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="container nav-container">
+            <div class="nav-logo">
+                <img src="logo.png" alt="École Ibn Zohr" class="logo-img">
+                <div class="nav-brand">
+                    <span class="nav-title" data-i18n="nav.title">École Privée Ibn Zohr</span>
+                    <span class="nav-subtitle" data-i18n="nav.subtitle">des Sciences de santé</span>
+                </div>
+            </div>
+            <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="nav-right">
+                <ul class="nav-menu" id="navMenu">
+                    <li><a href="#accueil" class="nav-link active" data-i18n="nav.home">Accueil</a></li>
+                    <li><a href="#conventions" class="nav-link" data-i18n="nav.conventions">Conventions</a></li>
+                    <li><a href="#informations" class="nav-link" data-i18n="nav.formations">Formations</a></li>
+                    <li><a href="#formation-en-ligne" class="nav-link" data-i18n="nav.onlineTraining">Formation en ligne</a></li>
+                </ul>
+                <div class="nav-actions">
+                    <button class="lang-btn-simple" id="langBtn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"/>
+                            <line x1="2" y1="12" x2="22" y2="12"/>
+                            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                        </svg>
+                        <span class="lang-text" data-i18n="lang.french">Français</span>
+                    </button>
+                    <div class="lang-dropdown" id="langDropdown">
+                        <button class="lang-option" data-lang="fr">
+                            <span class="lang-icon">🇫🇷</span>
+                            <span data-i18n="lang.french">Français</span>
+                        </button>
+                        <button class="lang-option" data-lang="en">
+                            <span class="lang-icon">🇺🇸</span>
+                            <span data-i18n="lang.english">English</span>
+                        </button>
+                        <button class="lang-option" data-lang="de">
+                            <span class="lang-icon">🇩🇪</span>
+                            <span data-i18n="lang.german">Deutsch</span>
+                        </button>
+                        <button class="lang-option" data-lang="es">
+                            <span class="lang-icon">🇪🇸</span>
+                            <span data-i18n="lang.spanish">Español</span>
+                        </button>
+                        <button class="lang-option" data-lang="ar">
+                            <span class="lang-icon">🇲🇦</span>
+                            <span data-i18n="lang.arabic">العربية</span>
+                        </button>
+                    </div>
+                    <a href="#inscriptionns" class="btn-preinscription" data-i18n="hero.btnPreinscription">Pré-inscription</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="accueil" class="hero">
+        <div class="container hero-container">
+            <div class="hero-left">
+                <div class="hero-badge">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
+                    </svg>
+                    <span data-i18n="hero.badge">Autorisation de l'OFPPT Numéro : 4/01/10/2022</span>
+                </div>
+                <h1 class="hero-title-new">
+                    <span class="hero-highlight" data-i18n="hero.title">École Privée Ibn Zohr des Sciences de santé</span><br>
+                </h1>
+                <p class="hero-description" data-i18n="hero.description">
+                   L'École Ibn Zohr des Sciences de Santé forme des infirmiers polyvalents et des aides-soignants compétents, grâce à un enseignement de qualité assuré par une équipe pédagogique expérimentée.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#inscription" class="btn-hero-primary">
+                        <span data-i18n="hero.btnPreinscription">Pré-inscription</span>
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M5 12h14M12 5l7 7-7 7"/>
+                        </svg>
+                    </a>
+                    <a href="#informations" class="btn-hero-secondary" data-i18n="hero.btnFormations">Nos Formations</a>
+                </div>
+            </div>
+            <div class="hero-right">
+                <div class="hero-image-container">
+                    <div class="hero-badge-overlay">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                            <polyline points="22 4 12 14.01 9 11.01"/>
+                        </svg>
+                        <div>
+                            <div class="badge-title" data-i18n="hero.diploma">Diplôme</div>
+                            <div class="badge-subtitle" data-i18n="hero.accredited">Accrédité par l'État</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Who We Are Section -->
+    <section id="qui-sommes-nous" class="section who-we-are-section">
+        <div class="container">
+            <div class="who-content-wrapper-simple">
+                <div class="who-image-side">
+                    <img src="ibn_zohr.png" class="who-main-image">
+                </div>
+                <div class="who-content-side">
+                    <h2 class="who-main-title" data-i18n="about.title">Qui sommes-nous</h2>
+                    <div class="who-title-underline"></div>
+                    <div class="who-text-content">
+                        <p class="who-body-text" data-i18n="about.description1">
+                            L'École Ibn Zohr des Sciences de Santé est un établissement privé de formation professionnelle agréé par l'OFPPT, dédié à la formation d'infirmiers polyvalents et d'aides-soignants hautement qualifiés.
+                        </p>
+                        <p class="who-body-text" data-i18n="about.description2">
+                            Nous croyons au pouvoir de l'éducation et à l'impact salvateur de la formation médicale de qualité. Notre mission est d'assurer une offre constante de professionnels de santé compétents et dévoués. Nous sommes dédiés à sensibiliser nos étudiants à l'importance des soins infirmiers et à les accompagner tout au long de leur parcours de formation.
+                        </p>
+                    </div>
+                    <a href="#inscription" class="btn-who-cta" data-i18n="about.btnCta">Pré-inscription</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Nos Conventions Section -->
+    <section id="conventions" class="section conventions-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-i18n="conventions.title">Nos Conventions</h2>
+                <p class="section-description" data-i18n="conventions.description">
+                    Des partenariats stratégiques avec des établissements de santé, des centres de formation et des experts
+                    pour garantir une formation pratique de qualité et faciliter l'insertion professionnelle de nos étudiants.
+                </p>
+            </div>
+
+            <!-- Statistics Banner -->
+            <div class="conventions-stats">
+                <div class="stat-card">
+                    <div class="stat-number">30+</div>
+                    <div class="stat-label" data-i18n="conventions.stats.partners">Partenaires stratégiques</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">500+</div>
+                    <div class="stat-label" data-i18n="conventions.stats.internships">Stages réalisés par an</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">95%</div>
+                    <div class="stat-label" data-i18n="conventions.stats.insertion">Taux d'insertion</div>
+                </div>
+            </div>
+
+            <!-- Partner Categories -->
+            <div class="conventions-grid">
+                <!-- Centres de langues -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper">
+                            <img src="allmend.jpg" alt="Centres de langues" class="convention-image">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.languageCenters.title">Centres de Langues</h3>
+                            <p class="convention-description" data-i18n="conventions.categories.languageCenters.description">
+                                Partenariats avec des centres de langues spécialisés pour renforcer les compétences linguistiques 
+                                de nos étudiants, essentielles dans le domaine médical international.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.languageCenters.features.0">Formation en langues étrangères</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.languageCenters.features.1">Préparation Ausbildung</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.languageCenters.features.2">Certifications reconnues</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Association des Scouts -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper convention-logo-wrapper">
+                            <img src="scouts-maroc.png" alt="Association des Scouts du Maroc" class="convention-logo">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                                        <circle cx="9" cy="7" r="4"/>
+                                        <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                                        <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.scouts.title">Association des Scouts du Maroc</h3>
+                            <p class="convention-subtitle" data-i18n="conventions.categories.scouts.subtitle">Tanger Médina</p>
+                            <p class="convention-description" data-i18n="conventions.categories.scouts.description">
+                                Convention avec l'Association des Scouts du Maroc pour développer le leadership, 
+                                l'esprit d'équipe et les valeurs humanitaires chez nos étudiants.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.scouts.features.0">Formation au leadership</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.scouts.features.1">Actions communautaires</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.scouts.features.2">Développement personnel</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coach Hanae Nachati -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper">
+                            <img src="couch_hanae.png" alt="Coach Hanae Nachati" class="convention-image">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/>
+                                        <line x1="7" y1="7" x2="7.01" y2="7"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.coach.title">Coach Hanae Nachati</h3>
+                            <p class="convention-subtitle" data-i18n="conventions.categories.coach.subtitle">Coach Professionnelle Certifiée</p>
+                            <p class="convention-description" data-i18n="conventions.categories.coach.description">
+                                Partenariat avec Coach Hanae Nachati pour accompagner nos étudiants dans leur développement 
+                                professionnel et personnel à travers des sessions de coaching spécialisées.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.coach.features.0">Coaching professionnel</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.coach.features.1">Développement des soft skills</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.coach.features.2">Orientation de carrière</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hôpitaux et Centres de Santé -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper">
+                            <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=600&fit=crop" 
+                                 alt="Hôpitaux et centres de santé" 
+                                 class="convention-image">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                                        <polyline points="9 22 9 12 15 12 15 22"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.hospitals.title">Hôpitaux et Centres de Santé</h3>
+                            <p class="convention-description" data-i18n="conventions.categories.hospitals.description">
+                                Partenariats avec des hôpitaux publics, privés et centres de santé pour offrir 
+                                un environnement d'apprentissage pratique de qualité.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.hospitals.features.0">Stages garantis</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.hospitals.features.1">Encadrement médical qualifié</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.hospitals.features.2">Équipements modernes</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cliniques -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper">
+                            <img src="https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&h=600&fit=crop" 
+                                 alt="Cliniques spécialisées" 
+                                 class="convention-image">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.clinics.title">Cliniques Spécialisées</h3>
+                            <p class="convention-description" data-i18n="conventions.categories.clinics.description">
+                                Collaboration avec des cliniques spécialisées pour une formation ciblée 
+                                dans des domaines spécifiques des soins infirmiers.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.clinics.features.0">Soins spécialisés</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.clinics.features.1">Approche personnalisée</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.clinics.features.2">Standards élevés</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pharmacies et Laboratoires -->
+                <div class="convention-category">
+                    <div class="convention-card">
+                        <div class="convention-image-wrapper">
+                            <img src="https://images.unsplash.com/photo-1576602976047-174e57a47881?w=800&h=600&fit=crop" 
+                                 alt="Pharmacies et laboratoires" 
+                                 class="convention-image">
+                            <div class="convention-overlay">
+                                <div class="convention-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M9 2v6h6V2M4 7h16M4 11h16M4 15h16M4 19h16"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="convention-content">
+                            <h3 class="convention-title" data-i18n="conventions.categories.pharmacies.title">Pharmacies et Laboratoires</h3>
+                            <p class="convention-description" data-i18n="conventions.categories.pharmacies.description">
+                                Conventions avec des pharmacies et laboratoires d'analyses médicales pour compléter 
+                                la formation pratique de nos étudiants.
+                            </p>
+                            <ul class="convention-features">
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.pharmacies.features.0">Gestion pharmaceutique</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.pharmacies.features.1">Analyses de laboratoire</span>
+                                </li>
+                                <li>
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="20 6 9 17 4 12"/>
+                                    </svg>
+                                    <span data-i18n="conventions.categories.pharmacies.features.2">Dispensation des médicaments</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Testimonial / Benefits Section -->
+            <div class="conventions-benefits">
+                <div class="benefits-image">
+                    <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=700&h=800&fit=crop" 
+                         alt="Étudiants en stage" 
+                         class="benefits-img">
+                    <div class="benefits-badge">
+                        <div class="badge-icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
+                            </svg>
+                        </div>
+                        <div class="badge-text">
+                            <div class="badge-number" data-i18n="conventions.benefits.excellence">Excellence</div>
+                            <div class="badge-label" data-i18n="conventions.benefits.practicalTraining">Formation pratique</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="benefits-content">
+                    <h3 class="benefits-title" data-i18n="conventions.benefits.title">Avantages pour nos étudiants</h3>
+                    <div class="benefits-list">
+                        <div class="benefit-item">
+                            <div class="benefit-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                                    <polyline points="22 4 12 14.01 9 11.01"/>
+                                </svg>
+                            </div>
+                            <div class="benefit-text">
+                                <h4 class="benefit-title" data-i18n="conventions.benefits.items.0.title">Stages garantis</h4>
+                                <p class="benefit-description" data-i18n="conventions.benefits.items.0.description">
+                                    Accès assuré à des stages de qualité dans nos établissements partenaires.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="benefit-item">
+                            <div class="benefit-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                                    <circle cx="9" cy="7" r="4"/>
+                                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                                </svg>
+                            </div>
+                            <div class="benefit-text">
+                                <h4 class="benefit-title" data-i18n="conventions.benefits.items.1.title">Réseau professionnel</h4>
+                                <p class="benefit-description" data-i18n="conventions.benefits.items.1.description">
+                                    Construction d'un réseau solide facilitant l'insertion professionnelle.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="benefit-item">
+                            <div class="benefit-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+                                </svg>
+                            </div>
+                            <div class="benefit-text">
+                                <h4 class="benefit-title" data-i18n="conventions.benefits.items.2.title">Expérience diversifiée</h4>
+                                <p class="benefit-description" data-i18n="conventions.benefits.items.2.description">
+                                    Exposition à différents environnements de soins et spécialités médicales.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="benefit-item">
+                            <div class="benefit-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                                    <polyline points="14 2 14 8 20 8"/>
+                                    <line x1="16" y1="13" x2="8" y2="13"/>
+                                    <line x1="16" y1="17" x2="8" y2="17"/>
+                                    <polyline points="10 9 9 9 8 9"/>
+                                </svg>
+                            </div>
+                            <div class="benefit-text">
+                                <h4 class="benefit-title" data-i18n="conventions.benefits.items.3.title">Encadrement qualifié</h4>
+                                <p class="benefit-description" data-i18n="conventions.benefits.items.3.description">
+                                    Supervision par des professionnels expérimentés durant tous les stages.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Informations générales Section -->
+    <section id="informations" class="section informations-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-i18n="formations.title">Nos Filières de Formation</h2>
+                <p class="section-description" data-i18n="formations.description">Des parcours adaptés à vos ambitions professionnelles.</p>
+            </div>
+            
+            <div class="programs-grid">
+                <!-- Infirmier Auxiliaire Program -->
+                <div class="program-card program-card-blue">
+                    <div class="program-icon program-icon-blue">
+                        <img src="icons/allaitement.png">
+                    </div>
+                    <h3 class="program-title" data-i18n="formations.programs.ip.title">Infirmier polyvalent (IP)</h3>
+                    <p class="program-description" data-i18n="formations.programs.ip.description">Le programme Infirmier Polyvalent offre une formation complète, alliant théorie et pratique, pour former des professionnels capables de s'adapter à différents services de santé.</p>
+                    
+                    <ul class="program-features">
+                        <li class="program-feature program-feature-blue">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M12 6v6l4 2"/>
+                            </svg>
+                            <span data-i18n="formations.programs.ip.features.0"><strong>Durée:</strong> 3 ans</span>
+                        </li>
+                        <li class="program-feature program-feature-blue">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.ip.features.1"><strong>Niveau requis:</strong> Baccalauréat</span>
+                        </li>
+                        <li class="program-feature program-feature-blue">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.ip.features.2"><strong>Diplome:</strong> Technicien spécialisé</span>
+                        </li>
+                        <li class="program-feature program-feature-blue">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.ip.features.3">Stages pratiques garantis</span>
+                        </li>
+                        <li class="program-feature program-feature-blue">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.ip.features.4">Insertion professionnelle rapide</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Aide Soignant Program -->
+                <div class="program-card program-card-green">
+                    <div class="program-icon program-icon-green">
+                        <img src="icons/aide-soignante (2).png">
+                    </div>
+                    <h3 class="program-title1" data-i18n="formations.programs.as.title">Aide Soignant (AS)</h3>
+                    <p class="program-description" data-i18n="formations.programs.as.description">
+Le programme Aide-Soignant propose une formation complète, alliant théorie et pratique, pour préparer des professionnels capables d'accompagner les patients et de contribuer à leur bien-être et rétablissement.</p>
+                    
+                    <ul class="program-features">
+                        <li class="program-feature program-feature-green">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M12 6v6l4 2"/>
+                            </svg>
+                            <span data-i18n="formations.programs.as.features.0"><strong>Durée:</strong> 1 an</span>
+                        </li>
+                        <li class="program-feature program-feature-green">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.as.features.1"><strong>Niveau requis:</strong> 3ème année collège</span>
+                        </li>
+                        <li class="program-feature program-feature-green">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.as.features.2"><strong>Diplome:</strong> Qualification</span>
+                        </li>
+                        <li class="program-feature program-feature-green">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.as.features.3">Formation axée sur la pratique</span>
+                        </li>
+                        <li class="program-feature program-feature-green">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M9 12l2 2 4-4"/>
+                            </svg>
+                            <span data-i18n="formations.programs.as.features.4">Demande croissante sur le marché</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Formations Certifiées Section -->
+    <section id="formations-certifiees" class="section formations-certifiees-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-i18n="certifications.title">Formations Certifiées</h2>
+                <p class="section-description" data-i18n="certifications.description">Des formations spécialisées pour développer votre expertise professionnelle</p>
+            </div>
+
+            <div class="certified-programs-grid">
+                <!-- Medical Aesthetics -->
+                <div class="certified-category">
+                    <div class="certified-category-header">
+                        <h3 class="certified-category-title" data-i18n="certifications.categories.aesthetics.title">Esthétique médicale</h3>
+                    </div>
+                    <div class="certified-programs-content">
+                        <div class="certified-image-container">
+                            <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&h=400&fit=crop" 
+                                 alt="Esthétique médicale" 
+                                 class="certified-image">
+                        </div>
+                        <ul class="certified-programs-list">
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.aesthetics.programs.0">PRP plasma pour visage et cheveux</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.aesthetics.programs.1">mésothérapie pour visage et cheveux</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.aesthetics.programs.2">soins de visage (anti-rides, anti-acné...)</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Healthcare Specializations -->
+                <div class="certified-category">
+                    <div class="certified-category-header">
+                        <h3 class="certified-category-title" data-i18n="certifications.categories.healthcare.title">Spécialisations en santé</h3>
+                    </div>
+                    <div class="certified-programs-content">
+                        <div class="certified-image-container">
+                            <img src="hijama-image.jpg" 
+                                 alt="Cupping therapy" 
+                                 class="certified-image">
+                        </div>
+                        <ul class="certified-programs-list">
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.healthcare.programs.0">Hijama (Cupping Thérapy)</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.healthcare.programs.1">Santé au travail</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.healthcare.programs.2">Injection et prélèvement sanguin</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.healthcare.programs.3">Aide-Pharmacien</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.healthcare.programs.4">Assistant médical</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="certified-programs-grid">        
+                <!-- Emergency & Care Training -->
+                <div class="certified-category">
+                    <div class="certified-category-header">
+                        <h3 class="certified-category-title" data-i18n="certifications.categories.emergency.title">Urgences et soins spécialisés</h3>
+                    </div>
+                    <div class="certified-programs-content">
+                        <div class="certified-image-container">
+                            <img src="image_164-11.webp"
+                                 alt="Urgences et premiers secours"
+                                 class="certified-image">
+                        </div>
+                        <ul class="certified-programs-list">
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.emergency.programs.0">Urgences et premiers secours</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.emergency.programs.1">Brancardier</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.emergency.programs.2">Soins et prise en charge des personnes âgées (Gériatrie)</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Mother & Child Care -->
+                <div class="certified-category">
+                    <div class="certified-category-header">
+                        <h3 class="certified-category-title" data-i18n="certifications.categories.motherChild.title">Mère et enfant</h3>
+                    </div>
+                    <div class="certified-programs-content">
+                        <div class="certified-image-container">
+                            <img src="puericulture.jpg"
+                                 alt="Puériculture et soins du nourrisson"
+                                 class="certified-image">
+                        </div>
+                        <ul class="certified-programs-list">
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.motherChild.programs.0">Puériculture</span>
+                            </li>
+                            <li class="certified-program-item">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 6v6l4 2"/>
+                                </svg>
+                                <span data-i18n="certifications.categories.motherChild.programs.1">Prise en charge des nourrissons</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>  
+
+            <!-- CTA Section -->
+            <div class="certified-cta">
+                <div class="certified-cta-content">
+                    <h3 class="certified-cta-title" data-i18n="certifications.cta.title">Intéressé par une formation certifiée ?</h3>
+                    <p class="certified-cta-text" data-i18n="certifications.cta.description">Contactez-nous pour plus d'informations sur nos programmes de formation continue et nos certifications professionnelles.</p>
+                    <div class="certified-cta-buttons">
+                        <a href="https://api.whatsapp.com/send/?phone=212633533176&text&type=phone_number&app_absent=0" target="_blank" class="btn btn-primary" data-i18n="certifications.cta.btnInfo">Demander des informations</a>
+                        <a href="tel:+212 6 33 53 31 76" class="btn btn-secondary" data-i18n="certifications.cta.btnCall">Nous appeler</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Processus d'inscription Section -->
+    <section id="inscriptionns">
+        <section id="inscription" class="section inscription-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title" data-i18n="registration.title">Processus d'inscription</h2>
+                    <p class="section-description" data-i18n="registration.description">Rejoignez-nous en quelques étapes simples</p>
+                </div>
+
+                <div class="inscription-content">
+                    <div class="steps-container">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h3 class="step-title" data-i18n="registration.steps.0.title">Remplissez le formulaire</h3>
+                                <p class="step-text" data-i18n="registration.steps.0.description">Complétez le formulaire de pré-inscription en ligne avec vos informations personnelles et académiques.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h3 class="step-title" data-i18n="registration.steps.1.title">Soumission des documents</h3>
+                                <p class="step-text" data-i18n="registration.steps.1.description">Téléchargez les documents requis (copie CIN, diplômes, photos, etc.) via le formulaire.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h3 class="step-title" data-i18n="registration.steps.2.title">Validation et contact</h3>
+                                <p class="step-text" data-i18n="registration.steps.2.description">Notre équipe examine votre dossier et vous contacte pour confirmer votre inscription.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="forms-container">
+                        <div class="form-card">
+                            <div class="form-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                                    <polyline points="14 2 14 8 20 8"/>
+                                    <line x1="16" y1="13" x2="8" y2="13"/>
+                                    <line x1="16" y1="17" x2="8" y2="17"/>
+                                    <polyline points="10 9 9 9 8 9"/>
+                                </svg>
+                            </div>
+                            <h3 class="form-title" data-i18n="registration.forms.general.title">Formulaire de pré-inscription</h3>
+                            <p class="form-description" data-i18n="registration.forms.general.description">Formulaire général pour toutes les filières (IP / AS)</p>
+                            <a href="https://docs.google.com/forms/d/1f5se-yu85mETboQ2vFH_UYRhil0dBzEiHLm-K9uiVGc/viewform" target="_blank" rel="noopener noreferrer" class="btn btn-form">
+                                <span data-i18n="registration.forms.general.btn">Accéder au formulaire</span>
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+
+                        <div class="form-card form-card-special">
+                            <div class="form-badge">Ausbildung</div>
+                            <div class="form-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <polyline points="12 6 12 12 16 14"/>
+                                </svg>
+                            </div>
+                            <h3 class="form-title" data-i18n="registration.forms.ausbildung.title">Formulaire Ausbildung</h3>
+                            <p class="form-description" data-i18n="registration.forms.ausbildung.description">Formulaire spécifique pour la formation en Allemagne</p>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_tpdCoIqPKqdnVtLopFXpT_eET5w4Tl3mVrzAwWWoPp6Q8g/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" class="btn btn-form btn-form-special">
+                                <span data-i18n="registration.forms.ausbildung.btn">Accéder au formulaire</span>
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+    <!-- Activities Section -->
+    <section id="activities" class="section activities-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-i18n="activities.title">Nos Activités</h2>
+                <p class="section-description" data-i18n="activities.description">Découvrez les activités et expériences pratiques de nos étudiants</p>
+            </div>
+            
+            <div id="activitiesCarousel" role="region" aria-label="Activities carousel" aria-live="polite">
+                <!-- Carousel will be dynamically loaded here -->
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Formation en ligne Section -->
+    <section id="formation-en-ligne" class="section formation-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-i18n="onlineTraining.title">Accès à la formation en ligne</h2>
+                <p class="section-description" data-i18n="onlineTraining.description">Ressources vidéo pour enrichir votre apprentissage</p>
+            </div>
+
+            <div class="videos-container">
+                <div class="video-category">
+                    <h3 class="video-category-title">
+                        <span class="category-icon"></span>
+                        <span data-i18n="onlineTraining.videos.training">Vidéos de formation</span>
+                    </h3>
+
+                    <div class="video-grid">
+                        <div class="video-card">
+                            <div class="video-wrapper">
+                                <iframe src="https://www.youtube.com/embed/WBo9qJKO9P4" 
+                                        title="Infirmiers au Bloc Opératoire" 
+                                        frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                        allowfullscreen>
+                                </iframe>
+                            </div>
+                            <div class="video-info">
+                                <h4 class="video-title" data-i18n="onlineTraining.videos.items.0.title">Infirmiers au Bloc Opératoire</h4>
+                                <p class="video-description" data-i18n="onlineTraining.videos.items.0.description">Présentation générale de la profession et des compétences requises</p>
+                            </div>
+                        </div>
+
+                        <div class="video-card">
+                            <div class="video-wrapper">
+                                <iframe src="https://www.youtube.com/embed/LZArZB-AvBU" 
+                                        title="Techniques de soins de base" 
+                                        frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                        allowfullscreen>
+                                </iframe>
+                            </div>
+                            <div class="video-info">
+                                <h4 class="video-title" data-i18n="onlineTraining.videos.items.1.title">La véritable histoire de l'acné</h4>
+                                <p class="video-description" data-i18n="onlineTraining.videos.items.1.description">Démonstration des gestes techniques fondamentaux</p>
+                            </div>
+                        </div>
+
+                        <div class="video-card">
+                            <div class="video-wrapper">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/TNc4BWHPv_o?si=ZTlMvMNhqbzB9mi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+                            <div class="video-info">
+                                <h4 class="video-title" data-i18n="onlineTraining.videos.items.1.title">La véritable histoire de l'acné</h4>
+                                <p class="video-description" data-i18n="onlineTraining.videos.items.1.description">Présentation générale de la profession et des compétences requises</p>
+                            </div>
+                        </div>
+
+                        <div class="video-card">
+                            <div class="video-wrapper">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/13fcgjymGFc?si=AF08SpVqi1auSiKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+                            <div class="video-info">
+                                <h4 class="video-title" data-i18n="onlineTraining.videos.items.2.title">Santé au travail en 5 minutes</h4>
+                                <p class="video-description" data-i18n="onlineTraining.videos.items.2.description">Présentation générale de la profession et des compétences requises</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-category">
+                    <h3 class="video-category-title">
+                        <span class="category-icon"></span>
+                        <span data-i18n="onlineTraining.videos.course">Vidéo de formation Ausbildung</span>
+                    </h3>
+                    <div class="video-grid video-grid-featured">
+                       <div class="video-card video-card-featured">
+    <div class="video-wrapper">
+        <video width="900" height="500" controls>
+            <source src="/Altenpflege_in_Deutschland.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo HTML5.
+        </video>
+    </div>
+    <div class="video-info">
+        <h4 class="video-title" data-i18n="onlineTraining.videos.items.3.title">
+            Cours magistral : Anatomie et physiologie
+        </h4>
+        <p class="video-description" data-i18n="onlineTraining.videos.items.3.description">
+            Cours complet sur les fondamentaux de l'anatomie humaine et des systèmes physiologiques
+        </p>
+    </div>
+</div>
+
+                        <div class="video-card video-card-featured">
+    <div class="video-wrapper">
+        <video width="900" height="500" controls>
+            <source src="/Euthanasie__Ein_neutraler_Blick.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo HTML5.
+        </video>
+    </div>
+    <div class="video-info">
+        <h4 class="video-title" data-i18n="onlineTraining.videos.items.4.title">
+            Cours magistral : Euthanasie - Une approche neutre
+        </h4>
+        <p class="video-description" data-i18n="onlineTraining.videos.items.4.description">
+            Cours complet offrant une perspective neutre sur l’euthanasie, ses aspects éthiques, légaux et sociaux.
+        </p>
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <img src="logo.png" alt="École Ibn Zohr" class="footer-logo">
+                    <p class="footer-text" data-i18n="footer.brand">École Privée Ibn Zohr des Sciences de santé</p>
+                </div>
+
+                <div class="footer-section">
+                    <h4 class="footer-title" data-i18n="footer.navigation">Navigation</h4>
+                    <ul class="footer-links">
+                        <li><a href="#accueil" data-i18n="nav.home">Accueil</a></li>
+                        <li><a href="#informations" data-i18n="nav.formations">Informations</a></li>
+                        <li><a href="#inscription" data-i18n="hero.btnPreinscription">Inscription</a></li>
+                        <li><a href="#formation-en-ligne" data-i18n="nav.onlineTraining">Formation en ligne</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4 class="footer-title" data-i18n="footer.contact">Contact</h4>
+                    <ul class="footer-contact">
+                        <li>Rue 49 N°6, Av. Anfa, souani.Tanger 90060.Maroc</li>
+                        <li><a href="tel:+212539330607">+212 5 39 33 06 07</a></li>
+                        <li><a href="tel:+212633533176">+212 6 33 53 31 76</a></li>
+                        <li><a href="mailto:ecole.izss@gmail.com">ecole.izss@gmail.com</a></li>
+                    </ul>
+
+                    <ul class="footer-social horizontal">
+                        <li><a href="https://www.instagram.com/ecole_izss_officielle?igsh=MXRidTVpcDV0NG10MA%3D%3D" target="_blank">
+                            <img src="icons/instagram-tile.svg" alt="Instagram" class="social-icon">
+                        </a></li>
+                        <li><a href="https://www.facebook.com/ECOLE.IZSS?rdid=od6eTIDOy3mn3Pqe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HBnvHAW5r%2F#" target="_blank">
+                            <img src="icons/téléchargement.png" alt="facebook" class="social-icon">
+                        </a></li>
+                        <li><a href="https://api.whatsapp.com/send/?phone=212633533176&text&type=phone_number&app_absent=0" target="_blank">
+                            <img src="icons/whatsap.png" alt="whatsap" class="social-icon">
+                        </a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4 class="footer-title" data-i18n="footer.location">Localisation</h4>
+                    <div class="footer-map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.2264874860966!2d-5.8277624244040265!3d35.76981247255868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b870051eb5c95%3A0xb27dcf9e5b7ef593!2sEcole%20ibn%20zohr%20des%20sciences%20de%20sant%C3%A9%20priv%C3%A9e!5e0!3m2!1sfr!2sma!4v1769525947950!5m2!1sfr!2sma" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p data-i18n="footer.copyright">&copy; 2026 École Privée Ibn Zohr de Formation en Soins Infirmiers. Tous droits réservés.</p>
+            </div>
+        </div>
+    </footer>
+
+    
+    <script src="script.js"></script>
+</body>
+</html>

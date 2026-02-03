@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "title":"Escuela privada Ibn Zohr",
+    "subtitle": "de Ciencias de la Salud",
+    "conventions": "Convenios",
+    "formations": "Formaciones",
+    "onlineTraining": "Formación en línea"
+  },
+  "lang": {
+    "french": "Français",
+    "english": "English",
+    "german": "Deutsch",
+    "arabic": "العربية",
+    "spanish": "Español"
+  },
+  "hero": {
+    "badge": "Autorización del OFPPT Número: 4/01/10/2022",
+    "title": "Escuela Privada Ibn Zohr de Ciencias de la Salud",
+    "description": "La Escuela Ibn Zohr de Ciencias de la Salud forma enfermeros polivalentes y auxiliares de enfermería competentes, gracias a una enseñanza de calidad impartida por un equipo pedagógico experimentado.",
+    "btnPreinscription": "Preinscripción",
+    "btnFormations": "Nuestras Formaciones",
+    "diploma": "Diploma",
+    "accredited": "Acreditado por el Estado"
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "description1": "La Escuela Ibn Zohr de Ciencias de la Salud es un establecimiento privado de formación profesional autorizado por el OFPPT, dedicado a la formación de enfermeros polivalentes y auxiliares de enfermería altamente cualificados.",
+    "description2": "Creemos en el poder de la educación y en el impacto salvador de la formación médica de calidad. Nuestra misión es asegurar una oferta constante de profesionales de la salud competentes y dedicados. Estamos comprometidos en sensibilizar a nuestros estudiantes sobre la importancia de los cuidados de enfermería y en acompañarlos a lo largo de su trayectoria formativa.",
+    "btnCta": "Preinscripción"
+  },
+  "conventions": {
+    "title": "Nuestros Convenios",
+    "description": "Asociaciones estratégicas con establecimientos de salud, centros de formación y expertos para garantizar una formación práctica de calidad y facilitar la inserción profesional de nuestros estudiantes.",
+    "stats": {
+      "partners": "30+ Socios estratégicos",
+      "internships": "500+ Prácticas realizadas al año",
+      "insertion": "95% Tasa de inserción"
+    },
+    "categories": {
+      "languageCenters": {
+        "title": "Centros de Idiomas",
+        "description": "Asociaciones con centros de idiomas especializados para reforzar las competencias lingüísticas de nuestros estudiantes, esenciales en el ámbito médico internacional.",
+        "features": [
+          "Formación en idiomas extranjeros",
+          "Preparación Ausbildung",
+          "Certificaciones reconocidas"
+        ]
+      },
+      "scouts": {
+        "title": "Asociación de Scouts de Marruecos",
+        "subtitle": "Tánger Medina",
+        "description": "Convenio con la Asociación de Scouts de Marruecos para desarrollar el liderazgo, el trabajo en equipo y los valores humanitarios en nuestros estudiantes.",
+        "features": [
+          "Formación en liderazgo",
+          "Acciones comunitarias",
+          "Desarrollo personal"
+        ]
+      },
+      "coach": {
+        "title": "Coach Hanae Nachati",
+        "subtitle": "Coach Profesional Certificada",
+        "description": "Asociación con la Coach Hanae Nachati para acompañar a nuestros estudiantes en su desarrollo profesional y personal a través de sesiones de coaching especializadas.",
+        "features": [
+          "Coaching profesional",
+          "Desarrollo de habilidades blandas",
+          "Orientación profesional"
+        ]
+      },
+      "hospitals": {
+        "title": "Hospitales y Centros de Salud",
+        "description": "Asociaciones con hospitales públicos, privados y centros de salud para ofrecer un entorno de aprendizaje práctico de calidad.",
+        "features": [
+          "Prácticas garantizadas",
+          "Encuadre médico cualificado",
+          "Equipamientos modernos"
+        ]
+      },
+      "clinics": {
+        "title": "Clínicas Especializadas",
+        "description": "Colaboración con clínicas especializadas para una formación dirigida en ámbitos específicos de los cuidados de enfermería.",
+        "features": [
+          "Cuidados especializados",
+          "Enfoque personalizado",
+          "Estándares elevados"
+        ]
+      },
+      "pharmacies": {
+        "title": "Farmacias y Laboratorios",
+        "description": "Convenios con farmacias y laboratorios de análisis médicos para completar la formación práctica de nuestros estudiantes.",
+        "features": [
+          "Gestión farmacéutica",
+          "Análisis de laboratorio",
+          "Dispensación de medicamentos"
+        ]
+      }
+    },
+    "benefits": {
+      "title": "Ventajas para nuestros estudiantes",
+      "items": [
+        {
+          "title": "Prácticas garantizadas",
+          "description": "Acceso asegurado a prácticas de calidad en nuestros establecimientos asociados."
+        },
+        {
+          "title": "Red profesional",
+          "description": "Construcción de una red sólida que facilita la inserción profesional."
+        },
+        {
+          "title": "Experiencia diversificada",
+          "description": "Exposición a diferentes entornos de cuidados y especialidades médicas."
+        },
+        {
+          "title": "Encuadre cualificado",
+          "description": "Supervisión por profesionales experimentados durante todas las prácticas."
+        }
+      ]
+    }
+  },
+  "formations": {
+    "title": "Nuestros Programas de Formación",
+    "description": "Trayectorias adaptadas a sus ambiciones profesionales.",
+    "programs": {
+      "ip": {
+        "title": "Enfermero polivalente (IP)",
+        "description": "El programa de Enfermero Polivalente ofrece una formación completa, combinando teoría y práctica, para formar profesionales capaces de adaptarse a diferentes servicios de salud.",
+        "features": [
+          "Duración: 3 años",
+          "Nivel requerido: Bachillerato",
+          "Diploma: Técnico especializado",
+          "Prácticas garantizadas",
+          "Inserción profesional rápida"
+        ]
+      },
+      "as": {
+        "title": "Auxiliar de Enfermería (AS)",
+        "description": "El programa de Auxiliar de Enfermería propone una formación completa, combinando teoría y práctica, para preparar profesionales capaces de acompañar a los pacientes y contribuir a su bienestar y recuperación.",
+        "features": [
+          "Duración: 1 año",
+          "Nivel requerido: 3º año de secundaria",
+          "Diploma: Cualificación",
+          "Formación centrada en la práctica",
+          "Demanda creciente en el mercado"
+        ]
+      }
+    }
+  },
+  "certifications": {
+    "title": "Formaciones Certificadas",
+    "description": "Formaciones especializadas para desarrollar su expertise profesional",
+    "categories": {
+      "aesthetics": {
+        "title": "Medicina estética",
+        "programs": [
+          "Plasma rico en plaquetas para rostro y cabello",
+          "Mesoterapia para rostro y cabello",
+          "Cuidados faciales (antiarrugas, antiacné...)"
+        ]
+      },
+      "healthcare": {
+        "title": "Especializaciones en salud",
+        "programs": [
+          "Hijama (Terapia con ventosas)",
+          "Salud laboral",
+          "Inyección y extracción sanguínea",
+          "Ayudante de farmacéutico",
+          "Asistente médico"
+        ]
+      },
+      "emergency": {
+        "title": "Urgencias y cuidados especializados",
+        "programs": [
+          "Urgencias y primeros auxilios",
+          "Camillero",
+          "Cuidados y atención a personas mayores (Geriatría)"
+        ]
+      },
+      "motherChild": {
+        "title": "Madre e hijo",
+        "programs": [
+          "Puericultura",
+          "Atención a recién nacidos"
+        ]
+      }
+    },
+    "cta": {
+      "title": "¿Interesado en una formación certificada?",
+      "description": "Contáctenos para obtener más información sobre nuestros programas de formación continua y certificaciones profesionales.",
+      "btnInfo": "Solicitar información",
+      "btnCall": "Llamarnos"
+    }
+  },
+  "registration": {
+    "title": "Proceso de inscripción",
+    "description": "Únase a nosotros en unos pasos simples",
+    "steps": [
+      {
+        "title": "Complete el formulario",
+        "description": "Rellene el formulario de preinscripción en línea con su información personal y académica."
+      },
+      {
+        "title": "Envío de documentos",
+        "description": "Suba los documentos requeridos (copia del DNI, diplomas, fotos, etc.) a través del formulario."
+      },
+      {
+        "title": "Validación y contacto",
+        "description": "Nuestro equipo examina su expediente y se pone en contacto con usted para confirmar su inscripción."
+      }
+    ],
+    "forms": {
+      "general": {
+        "title": "Formulario de preinscripción",
+        "description": "Formulario general para todas las ramas (IP / AS)",
+        "btn": "Acceder al formulario"
+      },
+      "ausbildung": {
+        "title": "Formulario Ausbildung",
+        "description": "Formulario específico para la formación en Alemania",
+        "btn": "Acceder al formulario"
+      }
+    }
+  },
+    "activities": {
+    "title": "Nuestras Actividades",
+    "description": "Descubre nuestras actividades y proyectos que enriquecen tu trayectoria académica y personal."
+  },
+  "onlineTraining": {
+    "title": "Acceso a la formación en línea",
+    "description": "Recursos de vídeo para enriquecer su aprendizaje",
+    "videos": {
+      "training": "Vídeos de formación",
+      "course": "Vídeo de formación Ausbildung",
+      "items": [
+        {
+          "title": "Enfermeros en Quirófano",
+          "description": "Presentación general de la profesión y competencias requeridas"
+        },
+        {
+          "title": "La verdadera historia del acné",
+          "description": "Demostración de gestos técnicos fundamentales"
+        },
+        {
+          "title": "Salud laboral en 5 minutos",
+          "description": "Presentación general de la profesión y competencias requeridas"
+        },
+        {
+          "title": "Cuidados a personas mayores en Alemania",
+          "description": "Curso sobre prácticas de cuidados especializados para personas mayores en el contexto alemán."
+        },
+        {
+          "title": "Euthanasia: Una aproximación neutral",
+          "description": "Curso completo que ofrece una perspectiva neutral sobre la eutanasia, sus aspectos éticos, legales y sociales."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "brand": "Escuela Privada Ibn Zohr de Ciencias de la Salud",
+    "navigation": "Navegación",
+    "contact": "Contacto",
+    "location": "Ubicación",
+    "copyright": "© 2026 Escuela Privada Ibn Zohr de Formación en Enfermería. Todos los derechos reservados."
+  }
+}

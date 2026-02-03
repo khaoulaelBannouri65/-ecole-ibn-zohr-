@@ -1,0 +1,265 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "title":"Private Ibn Zohr Schule",
+    "subtitle": "für Gesundheitswissenschaften",
+    "conventions": "Konventionen",
+    "formations": "Ausbildungen",
+    "onlineTraining": "Online-Schulung"
+  },
+  "lang": {
+    "french": "Français",
+    "arabic": "العربية",
+    "english": "English",
+    "german": "Deutsch"
+  },
+  "hero": {
+    "badge": "OFPPT Genehmigungsnummer: 4/01/10/2022",
+    "title": "Private Ibn Zohr Schule für Gesundheitswissenschaften",
+    "description": "Die Ibn Zohr Schule für Gesundheitswissenschaften bildet kompetente vielseitige Krankenschwestern und Pflegehelfer aus, dank qualitativ hochwertiger Lehre, die von einem erfahrenen Lehrteam bereitgestellt wird.",
+    "btnPreinscription": "Vorregistrierung",
+    "btnFormations": "Unsere Ausbildungen",
+    "diploma": "Diplom",
+    "accredited": "Staatlich anerkannt"
+  },
+  "about": {
+    "title": "Über uns",
+    "description1": "Die Ibn Zohr Schule für Gesundheitswissenschaften ist eine private Ausbildungseinrichtung, die von OFPPT anerkannt ist und sich der Ausbildung hochqualifizierter vielseitiger Krankenschwestern und Pflegehelfer widmet.",
+    "description2": "Wir glauben an die Kraft der Bildung und die rettende Wirkung einer qualitativ hochwertigen medizinischen Ausbildung. Unsere Mission ist es, eine konstante Versorgung mit kompetenten und engagierten Gesundheitsfachkräften zu gewährleisten. Wir verpflichten uns, unsere Studierenden für die Bedeutung der Krankenpflege zu sensibilisieren und sie während ihrer gesamten Ausbildung zu begleiten.",
+    "btnCta": "Vorregistrierung"
+  },
+  "conventions": {
+    "title": "Unsere Konventionen",
+    "description": "Strategische Partnerschaften mit Gesundheitseinrichtungen, Ausbildungszentren und Experten, um eine qualitativ hochwertige praktische Ausbildung zu gewährleisten und die berufliche Integration unserer Studierenden zu erleichtern.",
+    "stats": {
+      "partners": "30+ Strategische Partner",
+      "internships": "500+ Praktika pro Jahr",
+      "insertion": "95% Vermittlungsquote"
+    },
+    "categories": {
+      "languageCenters": {
+        "title": "Sprachzentren",
+        "description": "Partnerschaften mit spezialisierten Sprachzentren, um die sprachlichen Fähigkeiten unserer Studierenden zu stärken, die im internationalen medizinischen Bereich unerlässlich sind.",
+        "features": [
+          "Fremdsprachenausbildung",
+          "Ausbildungsvorbereitung",
+          "Anerkannte Zertifizierungen"
+        ]
+      },
+      "scouts": {
+        "title": "Marokkanischer Pfadfinderverband",
+        "subtitle": "Tanger Medina",
+        "description": "Konvention mit dem Marokkanischen Pfadfinderverband zur Entwicklung von Führungsqualitäten, Teamarbeit und humanitären Werten bei unseren Studierenden.",
+        "features": [
+          "Führungsqualitäten Ausbildung",
+          "Gemeinschaftsaktionen",
+          "Persönliche Entwicklung"
+        ]
+      },
+      "coach": {
+        "title": "Coach Hanae Nachati",
+        "subtitle": "Zertifizierter professioneller Coach",
+        "description": "Partnerschaft mit Coach Hanae Nachati, um unsere Studierenden in ihrer beruflichen und persönlichen Entwicklung durch spezialisierte Coachingsitzungen zu begleiten.",
+        "features": [
+          "Professionelles Coaching",
+          "Soft Skills Entwicklung",
+          "Karriereberatung"
+        ]
+      },
+      "hospitals": {
+        "title": "Krankenhäuser und Gesundheitszentren",
+        "description": "Partnerschaften mit öffentlichen und privaten Krankenhäusern sowie Gesundheitszentren, um qualitativ hochwertige praktische Lernumgebungen bereitzustellen.",
+        "features": [
+          "Garantierte Praktika",
+          "Qualifizierte medizinische Betreuung",
+          "Moderne Ausstattung"
+        ]
+      },
+      "clinics": {
+        "title": "Spezialisierte Kliniken",
+        "description": "Zusammenarbeit mit spezialisierten Kliniken für zielgerichtete Ausbildung in spezifischen Bereichen der Krankenpflege.",
+        "features": [
+          "Spezialisierte Pflege",
+          "Personalisierter Ansatz",
+          "Hohe Standards"
+        ]
+      },
+      "pharmacies": {
+        "title": "Apotheken und Labore",
+        "description": "Vereinbarungen mit Apotheken und medizinischen Analyselaboren, um die praktische Ausbildung unserer Studierenden zu ergänzen.",
+        "features": [
+          "Pharmazeutisches Management",
+          "Laboranalysen",
+          "Arzneimittelabgabe"
+        ]
+      }
+    },
+    "benefits": {
+      "title": "Vorteile für unsere Studierenden",
+      "items": [
+        {
+          "title": "Garantierte Praktika",
+          "description": "Gesicherter Zugang zu qualitativ hochwertigen Praktika in unseren Partnerbetrieben."
+        },
+        {
+          "title": "Professionelles Netzwerk",
+          "description": "Aufbau eines soliden Netzwerks zur Erleichterung der beruflichen Integration."
+        },
+        {
+          "title": "Vielfältige Erfahrung",
+          "description": "Auseinandersetzung mit verschiedenen Pflegeumgebungen und medizinischen Fachgebieten."
+        },
+        {
+          "title": "Qualifizierte Betreuung",
+          "description": "Betreuung durch erfahrene Fachkräfte während aller Praktika."
+        }
+      ]
+    }
+  },
+  "formations": {
+    "title": "Unsere Ausbildungsprogramme",
+    "description": "Wege, die auf Ihre beruflichen Ambitionen zugeschnitten sind.",
+    "programs": {
+      "ip": {
+        "title": "Vielseitige Krankenschwester (IP)",
+        "description": "Das Vielseitige Krankenschwester Programm bietet umfassende Ausbildung, die Theorie und Praxis kombiniert, um Fachkräfte auszubilden, die sich an verschiedene Gesundheitsdienste anpassen können.",
+        "features": [
+          "Dauer: 3 Jahre",
+          "Erforderliches Niveau: Abitur",
+          "Diplom: Fach-techniker",
+          "Garantierte praktische Praktika",
+          "Schnelle berufliche Integration"
+        ]
+      },
+      "as": {
+        "title": "Pflegehelfer (AS)",
+        "description": "Das Pflegehelfer Programm bietet umfassende Ausbildung, die Theorie und Praxis kombiniert, um Fachkräfte vorzubereiten, die Patienten begleiten und zu ihrem Wohlbefinden und ihrer Genesung beitragen können.",
+        "features": [
+          "Dauer: 1 Jahr",
+          "Erforderliches Niveau: 3. Klasse Gymnasium",
+          "Diplom: Qualifikation",
+          "Praxisorientierte Ausbildung",
+          "Wachsende Nachfrage am Markt"
+        ]
+      }
+    }
+  },
+  "certifications": {
+    "title": "Zertifizierte Ausbildungen",
+    "description": "Spezialisierte Ausbildungen zur Entwicklung Ihrer beruflichen Expertise",
+    "categories": {
+      "aesthetics": {
+        "title": "Medizinische Ästhetik",
+        "programs": [
+          "PRP Plasma für Gesicht und Haare",
+          "Mesotherapie für Gesicht und Haare",
+          "Gesichtspflege (Anti-Falten, Anti-Akne...)"
+        ]
+      },
+      "healthcare": {
+        "title": "Gesundheitsspezialisierungen",
+        "programs": [
+          "Hijama (Schröpftherapie)",
+          "Arbeitsmedizin",
+          "Injektion und Blutentnahme",
+          "Apothekenhelfer",
+          "Medizinischer Assistent"
+        ]
+      },
+      "emergency": {
+        "title": "Notfall und spezialisierte Pflege",
+        "programs": [
+          "Notfall und Erste Hilfe",
+          "Krankenträger",
+          "Pflege und Betreuung älterer Menschen (Geriatrie)"
+        ]
+      },
+      "motherChild": {
+        "title": "Mutter und Kind",
+        "programs": [
+          "Kinderheilkunde",
+          "Säuglingspflege"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Interessiert an zertifizierter Ausbildung?",
+      "description": "Kontaktieren Sie uns für weitere Informationen zu unseren Weiterbildungsprogrammen und beruflichen Zertifizierungen.",
+      "btnInfo": "Informationen anfordern",
+      "btnCall": "Rufen Sie uns an"
+    }
+  },
+  "registration": {
+    "title": "Registrierungsprozess",
+    "description": "Treten Sie uns in wenigen einfachen Schritten bei",
+    "steps": [
+      {
+        "title": "Formular ausfüllen",
+        "description": "Füllen Sie das Online-Voranmeldungsformular mit Ihren persönlichen und akademischen Informationen aus."
+      },
+      {
+        "title": "Dokumenteneinreichung",
+        "description": "Laden Sie die erforderlichen Dokumente (CIN-Kopie, Diplome, Fotos usw.) über das Formular hoch."
+      },
+      {
+        "title": "Validierung und Kontakt",
+        "description": "Unser Team prüft Ihre Unterlagen und kontaktiert Sie, um Ihre Registrierung zu bestätigen."
+      }
+    ],
+    "forms": {
+      "general": {
+        "title": "Voranmeldungsformular",
+        "description": "Allgemeines Formular für alle Programme (IP / AS)",
+        "btn": "Auf das Formular zugreifen"
+      },
+      "ausbildung": {
+        "title": "Ausbildung Formular",
+        "description": "Spezifisches Formular für Ausbildung in Deutschland",
+        "btn": "Auf das Formular zugreifen"
+      }
+    }
+  },
+    "activities": {
+    "title": "Unsere Aktivitäten",
+    "description": "Entdecken Sie unsere Aktivitäten und Projekte, die Ihren akademischen und persönlichen Weg bereichern."
+  },
+  "onlineTraining": {
+    "title": "Zugang zur Online-Ausbildung",
+    "description": "Video-Ressourcen zur Bereicherung Ihres Lernens",
+    "videos": {
+      "training": "Ausbildungsvideos",
+      "course": "Ausbildungsvideo Ausbildung",
+      "items": [
+        {
+          "title": "OP-Krankenschwestern",
+          "description": "Allgemeine Vorstellung des Berufs und erforderlicher Kompetenzen"
+        },
+        {
+          "title": "Die wahre Geschichte von Akne",
+          "description": "Demonstration grundlegender technischer Gesten"
+        },
+        {
+          "title": "Arbeitsmedizin in 5 Minuten",
+          "description": "Allgemeine Vorstellung des Berufs und erforderlicher Kompetenzen"
+        },
+      
+        {
+          "title": "Pflege für ältere Menschen in Deutschland",
+          "description": "Umfassender Kurs über die Grundlagen der Pflege für ältere Menschen im deutschen Kontext und die beruflichen Praktiken des Sektors"
+        },
+      
+        {
+          "title": "Euthanasie: Eine neutrale Perspektive",
+          "description": "Umfassender Kurs, der eine neutrale Perspektive auf Euthanasie bietet, einschließlich ethischer, rechtlicher und sozialer Aspekte."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "brand": "Private Ibn Zohr Schule für Gesundheitswissenschaften",
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "location": "Standort",
+    "copyright": "© 2026 Private Ibn Zohr Schule für Krankenpflegeausbildung. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "nav": {
+    "home": "Home",
+    "title":"Ibn Zohr Private School",
+    "subtitle": "of Health Sciences",
+    "conventions": "Partnerships",
+    "formations": "Programs",
+    "onlineTraining": "Online Training"
+  },
+  "lang": {
+    "french": "Français",
+    "arabic": "العربية",
+    "english": "English",
+    "german": "Deutsch"
+  },
+  "hero": {
+    "badge": "OFPPT Authorization Number: 4/01/10/2022",
+    "title": "Ibn Zohr Private School of Health Sciences",
+    "description": "Ibn Zohr School of Health Sciences trains versatile nurses and competent nursing assistants, through quality education provided by an experienced teaching team.",
+    "btnPreinscription": "Pre-registration",
+    "btnFormations": "Our Programs",
+    "diploma": "Diploma",
+    "accredited": "State Accredited"
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "Ibn Zohr School of Health Sciences is a private vocational training institution approved by OFPPT, dedicated to training versatile nurses and highly qualified nursing assistants.",
+    "description2": "We believe in the power of education and the life-saving impact of quality medical training. Our mission is to ensure a constant supply of competent and dedicated health professionals. We are committed to raising awareness among our students about the importance of nursing care and supporting them throughout their training journey.",
+    "btnCta": "Pre-registration"
+  },
+  "conventions": {
+    "title": "Our Partnerships",
+    "description": "Strategic partnerships with healthcare facilities, training centers and experts to ensure quality practical training and facilitate professional integration of our students.",
+    "stats": {
+      "partners": "30+ Strategic Partners",
+      "internships": "500+ Internships per Year",
+      "insertion": "95% Employment Rate"
+    },
+    "categories": {
+      "languageCenters": {
+        "title": "Language Centers",
+        "description": "Partnerships with specialized language centers to strengthen our students' language skills, essential in the international medical field.",
+        "features": [
+          "Foreign language training",
+          "Ausbildung preparation",
+          "Recognized certifications"
+        ]
+      },
+      "scouts": {
+        "title": "Moroccan Scout Association",
+        "subtitle": "Tangier Medina",
+        "description": "Agreement with the Moroccan Scout Association to develop leadership, teamwork and humanitarian values among our students.",
+        "features": [
+          "Leadership training",
+          "Community actions",
+          "Personal development"
+        ]
+      },
+      "coach": {
+        "title": "Coach Hanae Nachati",
+        "subtitle": "Certified Professional Coach",
+        "description": "Partnership with Coach Hanae Nachati to support our students in their professional and personal development through specialized coaching sessions.",
+        "features": [
+          "Professional coaching",
+          "Soft skills development",
+          "Career guidance"
+        ]
+      },
+      "hospitals": {
+        "title": "Hospitals and Health Centers",
+        "description": "Partnerships with public, private hospitals and health centers to offer a quality practical learning environment.",
+        "features": [
+          "Guaranteed internships",
+          "Qualified medical supervision",
+          "Modern equipment"
+        ]
+      },
+      "clinics": {
+        "title": "Specialized Clinics",
+        "description": "Collaboration with specialized clinics for targeted training in specific areas of nursing care.",
+        "features": [
+          "Specialized care",
+          "Personalized approach",
+          "High standards"
+        ]
+      },
+      "pharmacies": {
+        "title": "Pharmacies and Laboratories",
+        "description": "Agreements with pharmacies and medical analysis laboratories to complete the practical training of our students.",
+        "features": [
+          "Pharmaceutical management",
+          "Laboratory analyses",
+          "Medication dispensing"
+        ]
+      }
+    },
+    "benefits": {
+      "title": "Benefits for Our Students",
+      "excellence": "Excellence",
+      "practicalTraining": "Practical Training",
+      "items": [
+        {
+          "title": "Guaranteed internships",
+          "description": "Assured access to quality internships in our partner institutions."
+        },
+        {
+          "title": "Professional network",
+          "description": "Building a strong network facilitating professional integration."
+        },
+        {
+          "title": "Diverse experience",
+          "description": "Exposure to different care environments and medical specialties."
+        },
+        {
+          "title": "Qualified supervision",
+          "description": "Supervision by experienced professionals during all internships."
+        }
+      ]
+    }
+  },
+  "formations": {
+    "title": "Our Training Programs",
+    "description": "Paths adapted to your professional ambitions.",
+    "programs": {
+      "ip": {
+        "title": "Versatile Nurse (VN)",
+        "description": "The Versatile Nurse program offers comprehensive training, combining theory and practice, to train professionals capable of adapting to different health services.",
+        "features": [
+          "<strong>Duration:</strong> 3 years",
+          "<strong>Required level:</strong> High School Diploma",
+          "<strong>Diploma:</strong> Specialized Technician",
+          "Guaranteed practical internships",
+          "Fast professional integration"
+        ]
+      },
+      "as": {
+        "title": "Nursing Assistant (NA)",
+        "description": "The Nursing Assistant program offers comprehensive training, combining theory and practice, to prepare professionals capable of supporting patients and contributing to their well-being and recovery.",
+        "features": [
+          "<strong>Duration:</strong> 1 year",
+          "<strong>Required level:</strong> 9th grade",
+          "<strong>Diploma:</strong> Qualification",
+          "Practice-focused training",
+          "Growing market demand"
+        ]
+      }
+    }
+  },
+  "certifications": {
+    "title": "Certified Training Programs",
+    "description": "Specialized training to develop your professional expertise",
+    "categories": {
+      "aesthetics": {
+        "title": "Medical Aesthetics",
+        "programs": [
+          "PRP plasma for face and hair",
+          "Mesotherapy for face and hair",
+          "Facial care (anti-wrinkle, anti-acne...)"
+        ]
+      },
+      "healthcare": {
+        "title": "Healthcare Specializations",
+        "programs": [
+          "Hijama (Cupping Therapy)",
+          "Occupational health",
+          "Injection and blood sampling",
+          "Pharmacy Assistant",
+          "Medical Assistant"
+        ]
+      },
+      "emergency": {
+        "title": "Emergency and Specialized Care",
+        "programs": [
+          "Emergency and first aid",
+          "Stretcher bearer",
+          "Elderly care and management (Geriatrics)"
+        ]
+      },
+      "motherChild": {
+        "title": "Mother and Child",
+        "programs": [
+          "Childcare",
+          "Infant care management"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Interested in certified training?",
+      "description": "Contact us for more information about our continuing education programs and professional certifications.",
+      "btnInfo": "Request information",
+      "btnCall": "Call us"
+    }
+  },
+  "registration": {
+    "title": "Registration Process",
+    "description": "Join us in a few simple steps",
+    "steps": [
+      {
+        "title": "Fill out the form",
+        "description": "Complete the online pre-registration form with your personal and academic information."
+      },
+      {
+        "title": "Submit documents",
+        "description": "Upload required documents (ID copy, diplomas, photos, etc.) via the form."
+      },
+      {
+        "title": "Validation and contact",
+        "description": "Our team reviews your file and contacts you to confirm your registration."
+      }
+    ],
+    "forms": {
+      "general": {
+        "title": "Pre-registration Form",
+        "description": "General form for all programs (VN / NA)",
+        "btn": "Access the form"
+      },
+      "ausbildung": {
+        "title": "Ausbildung Form",
+        "description": "Specific form for training in Germany",
+        "btn": "Access the form"
+      }
+    }
+  },
+    "activities": {
+    "title": "Our Activities",
+    "description": "Discover our activities and projects that enrich your academic and personal journey."
+  },
+  "onlineTraining": {
+    "title": "Online Training Access",
+    "description": "Video resources to enrich your learning",
+    "videos": {
+      "training": "Training Videos",
+      "course": "Ausbildung Training Video",
+      "items": [
+        {
+          "title": "Nurses in the Operating Room",
+          "description": "General presentation of the profession and required skills"
+        },
+        {
+          "title": "The True Story of Acne",
+          "description": "Demonstration of fundamental technical skills"
+        },
+        {
+          "title": "Occupational Health in 5 Minutes",
+          "description": "General presentation of the profession and required skills"
+        },
+        {
+          "title": "Caring for Elderly People in Germany",
+          "description": "Comprehensive course on the fundamentals of elderly care in the German context and sector professional practices"
+        },
+        {
+          "title": "Euthanasia: A Neutral Approach",
+          "description": "Comprehensive course offering a neutral perspective on euthanasia, its ethical, legal and social aspects."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "brand": "Ibn Zohr Private School of Health Sciences",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "location": "Location",
+    "copyright": "© 2026 Ibn Zohr Private School of Nursing Training. All rights reserved."
+  }
+}
