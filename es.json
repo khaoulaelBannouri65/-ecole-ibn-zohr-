@@ -20,8 +20,8 @@
     "description": "La Escuela Ibn Zohr de Ciencias de la Salud forma enfermeros polivalentes y auxiliares de enfermería competentes, gracias a una enseñanza de calidad impartida por un equipo pedagógico experimentado.",
     "btnPreinscription": "Preinscripción",
     "btnFormations": "Nuestras Formaciones",
-    "diploma": "Diploma",
-    "accredited": "Acreditado por el Estado"
+    "diploma": "Excelencia",
+    "accredited": "Formación práctica"
   },
   "about": {
     "title": "Quiénes somos",
@@ -211,11 +211,17 @@
       "general": {
         "title": "Formulario de preinscripción",
         "description": "Formulario general para todas las ramas (IP / AS)",
+          "supdescription": "Enfermero Polivalente",
+          "aide-soignante": "Aide Soignant",
+          "validationRapide": "Validación rápida",
         "btn": "Acceder al formulario"
       },
       "ausbildung": {
         "title": "Formulario Ausbildung",
         "description": "Formulario específico para la formación en Alemania",
+         "supdescription": "Formación internacional",
+"supdescription1": "Acompañamiento completo",
+"supportAdministratif": "Apoyo administrativo",
         "btn": "Acceder al formulario"
       }
     }
@@ -229,27 +235,24 @@
     "description": "Recursos de vídeo para enriquecer su aprendizaje",
     "videos": {
       "training": "Vídeos de formación",
-      "course": "Vídeo de formación Ausbildung",
+      "ausbildung": "Vídeo de formación Ausbildung",
       "items": [
         {
           "title": "Enfermeros en Quirófano",
-          "description": "Presentación general de la profesión y competencias requeridas"
+          "description": "Preparar a los enfermeros para las intervenciones en el quirófano."
         },
-        {
-          "title": "La verdadera historia del acné",
-          "description": "Demostración de gestos técnicos fundamentales"
-        },
+    
         {
           "title": "Salud laboral en 5 minutos",
           "description": "Presentación general de la profesión y competencias requeridas"
         },
         {
-          "title": "Cuidados a personas mayores en Alemania",
-          "description": "Curso sobre prácticas de cuidados especializados para personas mayores en el contexto alemán."
+          "title": "Comprender el proceso de envejecimiento (en alemán)",
+          "description": "Exploración de los aspectos físicos, psicológicos y sociales del envejecimiento para una mejor comprensión de esta etapa de la vida."
         },
         {
-          "title": "Euthanasia: Una aproximación neutral",
-          "description": "Curso completo que ofrece una perspectiva neutral sobre la eutanasia, sus aspectos éticos, legales y sociales."
+          "title": "Comprender el proceso de envejecimiento (en árabe)",
+          "description": "Exploración de los aspectos físicos, psicológicos y sociales del envejecimiento para una mejor comprensión de esta etapa de la vida."
         }
       ]
     }

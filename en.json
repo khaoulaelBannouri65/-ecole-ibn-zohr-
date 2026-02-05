@@ -19,8 +19,8 @@
     "description": "Ibn Zohr School of Health Sciences trains versatile nurses and competent nursing assistants, through quality education provided by an experienced teaching team.",
     "btnPreinscription": "Pre-registration",
     "btnFormations": "Our Programs",
-    "diploma": "Diploma",
-    "accredited": "State Accredited"
+    "diploma": "Excellence",
+    "accredited": "Practical training"
   },
   "about": {
     "title": "About Us",
@@ -209,14 +209,22 @@
       }
     ],
     "forms": {
+      "title": "Registration Forms",
+      "subtitle": "Choose the form that suits your training program",
       "general": {
         "title": "Pre-registration Form",
         "description": "General form for all programs (VN / NA)",
+        "supdescription": "Versatile Nurse",
+        "aide-soignante": "Nursing Assistant",
+        "validationRapide": "Fast validation",
         "btn": "Access the form"
       },
       "ausbildung": {
         "title": "Ausbildung Form",
         "description": "Specific form for training in Germany",
+        "supdescription": "International training",
+        "supdescription1": "Comprehensive support",
+        "supportAdministratif": "Administrative support",
         "btn": "Access the form"
       }
     }
@@ -230,27 +238,24 @@
     "description": "Video resources to enrich your learning",
     "videos": {
       "training": "Training Videos",
-      "course": "Ausbildung Training Video",
+      "ausbildung": "Ausbildung Training Video",
       "items": [
+       
         {
           "title": "Nurses in the Operating Room",
-          "description": "General presentation of the profession and required skills"
+          "description": "Preparing nurses for surgical procedures in the operating room."
         },
-        {
-          "title": "The True Story of Acne",
-          "description": "Demonstration of fundamental technical skills"
-        },
-        {
+          {
           "title": "Occupational Health in 5 Minutes",
           "description": "General presentation of the profession and required skills"
+        },  
+        {
+          "title": "Understanding the Aging Process (in German)",
+          "description": "Exploring the physical, psychological and social aspects of aging for a better understanding of this stage of life."
         },
         {
-          "title": "Caring for Elderly People in Germany",
-          "description": "Comprehensive course on the fundamentals of elderly care in the German context and sector professional practices"
-        },
-        {
-          "title": "Euthanasia: A Neutral Approach",
-          "description": "Comprehensive course offering a neutral perspective on euthanasia, its ethical, legal and social aspects."
+          "title": "Understanding the Aging Process (in Arabic)",
+          "description": "Exploring the physical, psychological and social aspects of aging for a better understanding of this stage of life."
         }
       ]
     }

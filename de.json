@@ -19,8 +19,8 @@
     "description": "Die Ibn Zohr Schule für Gesundheitswissenschaften bildet kompetente vielseitige Krankenschwestern und Pflegehelfer aus, dank qualitativ hochwertiger Lehre, die von einem erfahrenen Lehrteam bereitgestellt wird.",
     "btnPreinscription": "Vorregistrierung",
     "btnFormations": "Unsere Ausbildungen",
-    "diploma": "Diplom",
-    "accredited": "Staatlich anerkannt"
+    "diploma": "Exzellenz",
+    "accredited": "Praktische Ausbildung"
   },
   "about": {
     "title": "Über uns",
@@ -207,14 +207,22 @@
       }
     ],
     "forms": {
+      "title": "Anmeldeformulare",
+      "subtitle": "Wählen Sie das Formular, das zu Ihrer Ausbildung passt",
       "general": {
         "title": "Voranmeldungsformular",
         "description": "Allgemeines Formular für alle Programme (IP / AS)",
+        "supdescription": "Vielseitige Krankenschwester",
+        "aide-soignante": "Pflegehelfer",
+        "validationRapide": "Schnelle Validierung",
         "btn": "Auf das Formular zugreifen"
       },
       "ausbildung": {
         "title": "Ausbildung Formular",
         "description": "Spezifisches Formular für Ausbildung in Deutschland",
+        "supdescription": "Internationale Ausbildung",
+        "supdescription1": "Umfassende Unterstützung",
+        "supportAdministratif": "Administrative Unterstützung",
         "btn": "Auf das Formular zugreifen"
       }
     }
@@ -228,29 +236,26 @@
     "description": "Video-Ressourcen zur Bereicherung Ihres Lernens",
     "videos": {
       "training": "Ausbildungsvideos",
-      "course": "Ausbildungsvideo Ausbildung",
+      "ausbildung": "Ausbildungsvideo Ausbildung",
       "items": [
         {
           "title": "OP-Krankenschwestern",
-          "description": "Allgemeine Vorstellung des Berufs und erforderlicher Kompetenzen"
+          "description": "Vorbereitung der Pflegekräfte auf Eingriffe im Operationssaal"
         },
-        {
-          "title": "Die wahre Geschichte von Akne",
-          "description": "Demonstration grundlegender technischer Gesten"
-        },
+       
         {
           "title": "Arbeitsmedizin in 5 Minuten",
           "description": "Allgemeine Vorstellung des Berufs und erforderlicher Kompetenzen"
         },
       
         {
-          "title": "Pflege für ältere Menschen in Deutschland",
-          "description": "Umfassender Kurs über die Grundlagen der Pflege für ältere Menschen im deutschen Kontext und die beruflichen Praktiken des Sektors"
+          "title": "Verstehen des Alterungsprozesses (auf Deutsch)",
+          "description": "Erforschung der physischen, psychologischen und sozialen Aspekte des Alterns für ein besseres Verständnis dieser Lebensphase."
         },
       
         {
-          "title": "Euthanasie: Eine neutrale Perspektive",
-          "description": "Umfassender Kurs, der eine neutrale Perspektive auf Euthanasie bietet, einschließlich ethischer, rechtlicher und sozialer Aspekte."
+          "title": "Verstehen des Alterungsprozesses (auf Arabisch)",
+          "description": "Erforschung der physischen, psychologischen und sozialen Aspekte des Alterns für ein besseres Verständnis dieser Lebensphase."
         }
       ]
     }

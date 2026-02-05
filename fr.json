@@ -209,14 +209,22 @@
       }
     ],
     "forms": {
+      "titlze": "Formulaires d'inscription",
+      "subtitle": "Choisissez le formulaire adapté à votre formation",
       "general": {
         "title": "Formulaire de pré-inscription",
         "description": "Formulaire général pour toutes les filières (IP / AS)",
+        "supdescription": "Infirmier Polyvalent",
+        "aide-soignante": "Aide Soignant",
+        "validationRapide": "Validation rapide",
         "btn": "Accéder au formulaire"
       },
       "ausbildung": {
         "title": "Formulaire Ausbildung",
         "description": "Formulaire spécifique pour la formation en Allemagne",
+        "supdescription": "Formation internationale",
+        "supdescription1": "Accompagnement complet",
+        "supportAdministratif": "Support administratif",
         "btn": "Accéder au formulaire"
       }
     }
@@ -230,7 +238,7 @@
     "description": "Ressources vidéo pour enrichir votre apprentissage",
     "videos": {
       "training": "Vidéos de formation",
-      "course": "Vidéo de formation Ausbildung",
+      "ausbildung": "Vidéo de formation Ausbildung",
       "items": [
         {
           "title": "Infirmiers au Bloc Opératoire",
@@ -248,7 +256,7 @@
         },
          {
           "title": "Comprendre la phase de la vieillesse(Arabe)",
-          "description": "« Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
+          "description": "Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
 
         }
       ]
