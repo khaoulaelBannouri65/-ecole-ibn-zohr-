@@ -2019,6 +2019,7 @@ a {
     font-size: 0.95rem;
 }
 
+
 /* Includes list */
 .form-includes {
     list-style: none;
@@ -2035,6 +2036,7 @@ a {
     color: var(--gray-700);
     font-size: 0.9rem;
 }
+
 
 .form-includes svg {
     width: 18px;
@@ -2108,10 +2110,7 @@ a {
     flex-direction: row-reverse;
 }
 
-[dir="rtl"] .german-flag {
-    right: auto;
-    left: 20px;
-}
+
 
 [dir="rtl"] .form-btn svg {
     transform: scaleX(-1);
@@ -2146,12 +2145,7 @@ a {
         padding: 2rem;
     }
     
-    .german-flag {
-        width: 50px;
-        height: 33px;
-        bottom: 15px;
-        right: 15px;
-    }
+  
     
     [dir="rtl"] .german-flag {
         right: auto;
