@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Inicio",
-    "title":"Escuela privada Ibn Zohr",
-    "subtitle": "de Ciencias de la Salud",
+    "title":"Escuela Ibn Zohr",
+    "subtitle": "de Ciencias de la Salud -privada-",
     "conventions": "Convenios",
     "formations": "Formaciones",
     "onlineTraining": "Formación en línea"
@@ -16,7 +16,7 @@
   },
   "hero": {
     "badge": "Autorización del OFPPT Número: 4/01/10/2022",
-    "title": "Escuela Privada Ibn Zohr de Ciencias de la Salud",
+    "title": "Escuela Ibn Zohr de Ciencias de la Salud -privada-",
     "description": "La Escuela Ibn Zohr de Ciencias de la Salud forma enfermeros polivalentes y auxiliares de enfermería competentes, gracias a una enseñanza de calidad impartida por un equipo pedagógico experimentado.",
     "btnPreinscription": "Preinscripción",
     "btnFormations": "Nuestras Formaciones",
@@ -25,8 +25,8 @@
   },
   "about": {
     "title": "Quiénes somos",
-    "description1": "La Escuela Ibn Zohr de Ciencias de la Salud es un establecimiento privado de formación profesional autorizado por el OFPPT, dedicado a la formación de enfermeros polivalentes y auxiliares de enfermería altamente cualificados.",
-    "description2": "Creemos en el poder de la educación y en el impacto salvador de la formación médica de calidad. Nuestra misión es asegurar una oferta constante de profesionales de la salud competentes y dedicados. Estamos comprometidos en sensibilizar a nuestros estudiantes sobre la importancia de los cuidados de enfermería y en acompañarlos a lo largo de su trayectoria formativa.",
+    "description1": "La Escuela Ibn Zohr de Ciencias de la Salud es una institución privada autorizada bajo la supervisión del sector de formación profesional privada, especializada en la formación de enfermeros polivalentes y auxiliares de enfermería altamente cualificados.",
+    "description2": "La institución cree en la importancia de una educación y formación de calidad para mejorar el sistema de salud, y busca contribuir a la preparación de recursos humanos cualificados, competentes y comprometidos con la ética profesional. La escuela se esfuerza por supervisar y apoyar a sus estudiantes a lo largo de su trayectoria formativa, y por concienciarlos sobre la importancia de la profesión de enfermería y su papel humanitario al servicio de la comunidad.",
     "btnCta": "Preinscripción"
   },
   "conventions": {
@@ -77,7 +77,7 @@
         ]
       },
       "clinics": {
-        "title": "Clínicas Especializadas",
+        "title": "Clínicas y consultorios",
         "description": "Colaboración con clínicas especializadas para una formación dirigida en ámbitos específicos de los cuidados de enfermería.",
         "features": [
           "Cuidados especializados",
@@ -100,7 +100,7 @@
       "items": [
         {
           "title": "Prácticas garantizadas",
-          "description": "Acceso asegurado a prácticas de calidad en nuestros establecimientos asociados."
+          "description": "Acceso garantizado a prácticas de calidad en nuestras instituciones asociadas, tanto en el sector privado como en el sector público."
         },
         {
           "title": "Red profesional",
@@ -126,7 +126,7 @@
         "description": "El programa de Enfermero Polivalente ofrece una formación completa, combinando teoría y práctica, para formar profesionales capaces de adaptarse a diferentes servicios de salud.",
         "features": [
           "Duración: 3 años",
-          "Nivel requerido: Bachillerato",
+          "Nivel requerido: Bachillerato todas las modalidades",
           "Diploma: Técnico especializado",
           "Prácticas garantizadas",
           "Inserción profesional rápida"
@@ -137,7 +137,7 @@
         "description": "El programa de Auxiliar de Enfermería propone una formación completa, combinando teoría y práctica, para preparar profesionales capaces de acompañar a los pacientes y contribuir a su bienestar y recuperación.",
         "features": [
           "Duración: 1 año",
-          "Nivel requerido: 3º año de secundaria",
+          "Nivel requerido: 3º año de secundaria o superior ",
           "Diploma: Cualificación",
           "Formación centrada en la práctica",
           "Demanda creciente en el mercado"
@@ -225,7 +225,7 @@
     "description": "Descubre nuestras actividades y proyectos que enriquecen tu trayectoria académica y personal."
   },
   "onlineTraining": {
-    "title": "Acceso a la formación en línea",
+    "title": "Videos de apoyo destinados a nuestros estudiantes",
     "description": "Recursos de vídeo para enriquecer su aprendizaje",
     "videos": {
       "training": "Vídeos de formación",

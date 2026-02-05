@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Accueil",
-    "title":"École Privée Ibn Zohr ",
-    "subtitle": "des Sciences de santé",
+    "title":"École Ibn Zohr ",
+    "subtitle": "des Sciences de santé -privé-",
     "conventions": "Conventions",
     "formations": "Formations",
     "onlineTraining": "Formation en ligne"
@@ -15,17 +15,17 @@
   },
   "hero": {
     "badge": "Autorisation de l'OFPPT Numéro : 4/01/10/2022",
-    "title": "École Privée Ibn Zohr des Sciences de santé",
+    "title": "École Ibn Zohr des Sciences de santé -privé-",
     "description": "L'École Ibn Zohr des Sciences de Santé forme des infirmiers polyvalents et des aides-soignants compétents, grâce à un enseignement de qualité assuré par une équipe pédagogique expérimentée.",
     "btnPreinscription": "Pré-inscription",
     "btnFormations": "Nos Formations",
-    "diploma": "Diplôme",
-    "accredited": "Accrédité par l'État"
+    "diploma": "Excellence",
+    "accredited": "Formation pratique"
   },
   "about": {
     "title": "Qui sommes-nous",
-    "description1": "L'École Ibn Zohr des Sciences de Santé est un établissement privé de formation professionnelle agréé par l'OFPPT, dédié à la formation d'infirmiers polyvalents et d'aides-soignants hautement qualifiés.",
-    "description2": "Nous croyons au pouvoir de l'éducation et à l'impact salvateur de la formation médicale de qualité. Notre mission est d'assurer une offre constante de professionnels de santé compétents et dévoués. Nous sommes dédiés à sensibiliser nos étudiants à l'importance des soins infirmiers et à les accompagner tout au long de leur parcours de formation.",
+    "description1": "L’École Ibn Zohr des Sciences de Santé est un établissement privé de formation professionnelle autorisé, spécialisé dans la formation d’infirmiers polyvalents et d’aides-soignants qualifiés.",
+    "description2": "Elle œuvre pour offrir une formation médicale de qualité adaptée aux exigences du terrain et visant à former des professionnels de santé compétents, responsables et engagés. L’école accompagne ses étudiants tout au long de leur parcours afin de favoriser leur réussite et leur intégration dans le milieu professionnel.",
     "btnCta": "Pré-inscription"
   },
   "conventions": {
@@ -76,7 +76,7 @@
         ]
       },
       "clinics": {
-        "title": "Cliniques Spécialisées",
+        "title": "cliniques et cabinets",
         "description": "Collaboration avec des cliniques spécialisées pour une formation ciblée dans des domaines spécifiques des soins infirmiers.",
         "features": [
           "Soins spécialisés",
@@ -101,7 +101,7 @@
       "items": [
         {
           "title": "Stages garantis",
-          "description": "Accès assuré à des stages de qualité dans nos établissements partenaires."
+          "description": "Accès assuré à des stages de qualité au sein de nos établissements partenaires, tant dans le secteur privé que dans le secteur public."
         },
         {
           "title": "Réseau professionnel",
@@ -127,7 +127,7 @@
         "description": "Le programme Infirmier Polyvalent offre une formation complète, alliant théorie et pratique, pour former des professionnels capables de s'adapter à différents services de santé.",
         "features": [
           "<strong>Durée:</strong> 3 ans",
-          "<strong>Niveau requis:</strong> Baccalauréat",
+          "<strong>Niveau requis:</strong> Baccalauréat toutes séries",
           "<strong>Diplome:</strong> Technicien spécialisé",
           "Stages pratiques garantis",
           "Insertion professionnelle rapide"
@@ -138,7 +138,7 @@
         "description": "Le programme Aide-Soignant propose une formation complète, alliant théorie et pratique, pour préparer des professionnels capables d'accompagner les patients et de contribuer à leur bien-être et rétablissement.",
         "features": [
           "<strong>Durée:</strong> 1 an",
-          "<strong>Niveau requis:</strong> 3ème année collège",
+          "<strong>Niveau requis:</strong> 3ème année collège ou plus",
           "<strong>Diplome:</strong> Qualification",
           "Formation axée sur la pratique",
           "Demande croissante sur le marché"
@@ -226,7 +226,7 @@
     "description": "Découvrez nos activités et projets qui enrichissent votre parcours académique et personnel."
   },
   "onlineTraining": {
-    "title": "Accès à la formation en ligne",
+    "title": "les vidéos de soutien destinées à nos étudiants",
     "description": "Ressources vidéo pour enrichir votre apprentissage",
     "videos": {
       "training": "Vidéos de formation",
@@ -234,34 +234,31 @@
       "items": [
         {
           "title": "Infirmiers au Bloc Opératoire",
-          "description": "Présentation générale de la profession et des compétences requises"
+          "description": "Préparer les infirmiers aux interventions en salle d’opération."
         },
-        {
-          "title": "La véritable histoire de l'acné",
-          "description": "Démonstration des gestes techniques fondamentaux"
-        },
+       
         {
           "title": "Santé au travail en 5 minutes",
           "description": "Présentation générale de la profession et des compétences requises"
         },
         {
-          "title": "Soins aux personnes âgées en Allemagne",
-          "description": "Cours complet sur les fondamentaux des soins aux personnes âgées en Allemagne et les pratiques professionnelles du secteur"
+          "title": "Comprendre la phase de la vieillesse(Allemande)",
+          "description": "Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
 
         },
          {
-          "title": "Euthanasie : Une approche neutre",
-          "description": "Cours complet offrant une perspective neutre sur l’euthanasie, ses aspects éthiques, légaux et sociaux."
+          "title": "Comprendre la phase de la vieillesse(Arabe)",
+          "description": "« Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
 
         }
       ]
     }
   },
   "footer": {
-    "brand": "École Privée Ibn Zohr des Sciences de santé",
+    "brand": "École Ibn Zohr des Sciences de santé -Privé-",
     "navigation": "Navigation",
     "contact": "Contact",
     "location": "Localisation",
-    "copyright": "© 2026 École Privée Ibn Zohr de Formation en Soins Infirmiers. Tous droits réservés."
+    "copyright": "© 2026 École Ibn Zohr des Sciences de santé -Privé-. Tous droits réservés."
   }
 }

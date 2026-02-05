@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Home",
-    "title":"Ibn Zohr Private School",
-    "subtitle": "of Health Sciences",
+    "title":"Ibn Zohr School",
+    "subtitle": "of Health Sciences -Private-",
     "conventions": "Partnerships",
     "formations": "Programs",
     "onlineTraining": "Online Training"
@@ -15,7 +15,7 @@
   },
   "hero": {
     "badge": "OFPPT Authorization Number: 4/01/10/2022",
-    "title": "Ibn Zohr Private School of Health Sciences",
+    "title": "Ibn Zohr School of Health Sciences -Private-",
     "description": "Ibn Zohr School of Health Sciences trains versatile nurses and competent nursing assistants, through quality education provided by an experienced teaching team.",
     "btnPreinscription": "Pre-registration",
     "btnFormations": "Our Programs",
@@ -24,8 +24,8 @@
   },
   "about": {
     "title": "About Us",
-    "description1": "Ibn Zohr School of Health Sciences is a private vocational training institution approved by OFPPT, dedicated to training versatile nurses and highly qualified nursing assistants.",
-    "description2": "We believe in the power of education and the life-saving impact of quality medical training. Our mission is to ensure a constant supply of competent and dedicated health professionals. We are committed to raising awareness among our students about the importance of nursing care and supporting them throughout their training journey.",
+    "description1": "Ibn Zohr School of Health Sciences is a private institution licensed under the supervision of the private vocational training sector, specializing in the training of versatile nurses and highly qualified nursing assistants.",
+    "description2": "The institution believes in the importance of quality education and training in improving the health system, and seeks to contribute to the preparation of qualified, competent human resources committed to professional ethics. The school is keen to supervise and support its students throughout their training path, and to raise their awareness of the importance of the nursing profession and its humanitarian role in serving the community.",
     "btnCta": "Pre-registration"
   },
   "conventions": {
@@ -76,7 +76,7 @@
         ]
       },
       "clinics": {
-        "title": "Specialized Clinics",
+        "title": "Clinics and offices",
         "description": "Collaboration with specialized clinics for targeted training in specific areas of nursing care.",
         "features": [
           "Specialized care",
@@ -101,7 +101,7 @@
       "items": [
         {
           "title": "Guaranteed internships",
-          "description": "Assured access to quality internships in our partner institutions."
+          "description": "uaranteed access to high-quality internships within our partner institutions, both in the private and public sectors."
         },
         {
           "title": "Professional network",
@@ -127,7 +127,7 @@
         "description": "The Versatile Nurse program offers comprehensive training, combining theory and practice, to train professionals capable of adapting to different health services.",
         "features": [
           "<strong>Duration:</strong> 3 years",
-          "<strong>Required level:</strong> High School Diploma",
+          "<strong>Required level:</strong> High School Diploma all series",
           "<strong>Diploma:</strong> Specialized Technician",
           "Guaranteed practical internships",
           "Fast professional integration"
@@ -138,7 +138,7 @@
         "description": "The Nursing Assistant program offers comprehensive training, combining theory and practice, to prepare professionals capable of supporting patients and contributing to their well-being and recovery.",
         "features": [
           "<strong>Duration:</strong> 1 year",
-          "<strong>Required level:</strong> 9th grade",
+          "<strong>Required level:</strong> 9th grade or more",
           "<strong>Diploma:</strong> Qualification",
           "Practice-focused training",
           "Growing market demand"
@@ -226,7 +226,7 @@
     "description": "Discover our activities and projects that enrich your academic and personal journey."
   },
   "onlineTraining": {
-    "title": "Online Training Access",
+    "title": "Support videos intended for our students",
     "description": "Video resources to enrich your learning",
     "videos": {
       "training": "Training Videos",

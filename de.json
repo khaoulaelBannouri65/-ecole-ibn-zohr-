@@ -1,7 +1,7 @@
 {
   "nav": {
     "home": "Startseite",
-    "title":"Private Ibn Zohr Schule",
+    "title":"Ibn Zohr Schule -Private-",
     "subtitle": "für Gesundheitswissenschaften",
     "conventions": "Konventionen",
     "formations": "Ausbildungen",
@@ -15,7 +15,7 @@
   },
   "hero": {
     "badge": "OFPPT Genehmigungsnummer: 4/01/10/2022",
-    "title": "Private Ibn Zohr Schule für Gesundheitswissenschaften",
+    "title": " Ibn Zohr Schule für Gesundheitswissenschaften -Private",
     "description": "Die Ibn Zohr Schule für Gesundheitswissenschaften bildet kompetente vielseitige Krankenschwestern und Pflegehelfer aus, dank qualitativ hochwertiger Lehre, die von einem erfahrenen Lehrteam bereitgestellt wird.",
     "btnPreinscription": "Vorregistrierung",
     "btnFormations": "Unsere Ausbildungen",
@@ -24,8 +24,8 @@
   },
   "about": {
     "title": "Über uns",
-    "description1": "Die Ibn Zohr Schule für Gesundheitswissenschaften ist eine private Ausbildungseinrichtung, die von OFPPT anerkannt ist und sich der Ausbildung hochqualifizierter vielseitiger Krankenschwestern und Pflegehelfer widmet.",
-    "description2": "Wir glauben an die Kraft der Bildung und die rettende Wirkung einer qualitativ hochwertigen medizinischen Ausbildung. Unsere Mission ist es, eine konstante Versorgung mit kompetenten und engagierten Gesundheitsfachkräften zu gewährleisten. Wir verpflichten uns, unsere Studierenden für die Bedeutung der Krankenpflege zu sensibilisieren und sie während ihrer gesamten Ausbildung zu begleiten.",
+    "description1": "Die Ibn Zohr Schule für Gesundheitswissenschaften ist eine private Einrichtung, die unter der Aufsicht des privaten Berufsbildungssektors lizenziert ist und sich auf die Ausbildung von vielseitigen Krankenschwestern und hochqualifizierten Pflegehelfern spezialisiert hat.",
+    "description2": "Die Institution glaubt an die Wichtigkeit einer qualitativ hochwertigen Ausbildung und Bildung, um das Gesundheitssystem zu verbessern, und möchte zur Vorbereitung qualifizierter, kompetenter menschlicher Ressourcen beitragen, die sich der beruflichen Ethik verpflichtet fühlen. Die Schule bemüht sich darum, ihre Studierenden während ihres gesamten Ausbildungsweges zu begleiten und zu unterstützen und sie über die Wichtigkeit der Krankenpflege und ihren humanitären Charakter im Dienste der Gemeinschaft zu sensibilisieren.",
     "btnCta": "Vorregistrierung"
   },
   "conventions": {
@@ -76,7 +76,7 @@
         ]
       },
       "clinics": {
-        "title": "Spezialisierte Kliniken",
+        "title": "Kliniken und Praxen",
         "description": "Zusammenarbeit mit spezialisierten Kliniken für zielgerichtete Ausbildung in spezifischen Bereichen der Krankenpflege.",
         "features": [
           "Spezialisierte Pflege",
@@ -99,7 +99,7 @@
       "items": [
         {
           "title": "Garantierte Praktika",
-          "description": "Gesicherter Zugang zu qualitativ hochwertigen Praktika in unseren Partnerbetrieben."
+          "description": "Gesicherter Zugang zu hochwertigen Praktika in unseren Partnerinstitutionen, sowohl im privaten als auch im öffentlichen Sektor.“"
         },
         {
           "title": "Professionelles Netzwerk",
@@ -125,7 +125,7 @@
         "description": "Das Vielseitige Krankenschwester Programm bietet umfassende Ausbildung, die Theorie und Praxis kombiniert, um Fachkräfte auszubilden, die sich an verschiedene Gesundheitsdienste anpassen können.",
         "features": [
           "Dauer: 3 Jahre",
-          "Erforderliches Niveau: Abitur",
+          "Erforderliches Niveau: Abitur alle Fachrichtungen",
           "Diplom: Fach-techniker",
           "Garantierte praktische Praktika",
           "Schnelle berufliche Integration"
@@ -136,7 +136,7 @@
         "description": "Das Pflegehelfer Programm bietet umfassende Ausbildung, die Theorie und Praxis kombiniert, um Fachkräfte vorzubereiten, die Patienten begleiten und zu ihrem Wohlbefinden und ihrer Genesung beitragen können.",
         "features": [
           "Dauer: 1 Jahr",
-          "Erforderliches Niveau: 3. Klasse Gymnasium",
+          "Erforderliches Niveau: 3. Klasse Gymnasium oder höher",
           "Diplom: Qualifikation",
           "Praxisorientierte Ausbildung",
           "Wachsende Nachfrage am Markt"
@@ -224,7 +224,7 @@
     "description": "Entdecken Sie unsere Aktivitäten und Projekte, die Ihren akademischen und persönlichen Weg bereichern."
   },
   "onlineTraining": {
-    "title": "Zugang zur Online-Ausbildung",
+    "title": "Unterstützungsvideos für unsere Studierenden",
     "description": "Video-Ressourcen zur Bereicherung Ihres Lernens",
     "videos": {
       "training": "Ausbildungsvideos",

@@ -549,15 +549,15 @@ class ActivitiesCarousel {
       "id": 3,
       "image": "carnavas.jpg",
       "title": {
-        "fr": "Caravane éducative",
-        "ar": "قافلة تعليمية",
+        "fr": "Caravanes éducatives",
+        "ar": " قوافل طبية تحسيسية",
         "en": "Educational Caravan",
         "es": "Caravana Educativa",
         "de": "Bildungskarawane"
       },
       "description": {
-        "fr": "Nos étudiants participent à une caravane éducative pour sensibiliser et accompagner les communautés locales.",
-        "ar": "يشارك طلابنا في قافلة تعليمية لتوعية ومرافقة المجتمعات المحلية.",
+        "fr": "Nos étudiants participent aux caravanes éducatives pour sensibiliser et accompagner les communautés locales.",
+        "ar": "يشارك طلابنا في قوافل طبية لتوعية ومرافقة المجتمعات المحلية.",
         "en": "Our students participate in an educational caravan to raise awareness and support local communities.",
         "es": "Nuestros estudiantes participan en una caravana educativa para sensibilizar y acompañar a las comunidades locales.",
         "de": "Unsere Studenten nehmen an einer Bildungskarawane teil, um das Bewusstsein zu schärfen und lokale Gemeinschaften zu unterstützen."
@@ -604,7 +604,7 @@ class ActivitiesCarousel {
       "image": "congratuation.jpg",
       "title": {
         "fr": "Soutenance des projets étudiants",
-        "ar": "مناقشة مشاريع الطلاب",
+        "ar": "مناقشة بحوث التخرج",
         "en": "Student Project Defense",
         "es": "Defensa de Proyectos Estudiantiles",
         "de": "Verteidigung von Studentenprojekten"
