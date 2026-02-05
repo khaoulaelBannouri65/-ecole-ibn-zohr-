@@ -184,12 +184,14 @@
         ]
       }
     },
-    "cta": {
-      "title": "Interested in certified training?",
-      "description": "Contact us for more information about our continuing education programs and professional certifications.",
-      "btnInfo": "Request information",
-      "btnCall": "Call us"
-    }
+   
+  "cta": {
+    "title": "Interested in a certified training?",
+    "description": "Contact us for more information about our continuing education programs and professional certifications, or complete your pre-registration now by filling out the dedicated form.",
+    "btnInfo": "Access the form",
+    "btnCall": "Call us"
+  }
+
   },
   "registration": {
     "title": "Registration Process",
@@ -261,10 +263,10 @@
     }
   },
   "footer": {
-    "brand": "Ibn Zohr Private School of Health Sciences",
+    "brand": "Ibn Zohr School of Health Sciences -Private-",
     "navigation": "Navigation",
     "contact": "Contact",
     "location": "Location",
-    "copyright": "© 2026 Ibn Zohr Private School of Nursing Training. All rights reserved."
+    "copyright": "© 2026 Ibn Zohr School of Health Sciences -Private-. All rights reserved."
   }
 }

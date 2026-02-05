@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Startseite",
-    "title":"Ibn Zohr Schule -Private-",
-    "subtitle": "für Gesundheitswissenschaften",
+    "title":"Ibn Zohr Schule",
+    "subtitle": "für Gesundheitswissenschaften -Private-",
     "conventions": "Konventionen",
     "formations": "Ausbildungen",
     "onlineTraining": "Online-Schulung"
@@ -183,11 +183,11 @@
       }
     },
     "cta": {
-      "title": "Interessiert an zertifizierter Ausbildung?",
-      "description": "Kontaktieren Sie uns für weitere Informationen zu unseren Weiterbildungsprogrammen und beruflichen Zertifizierungen.",
-      "btnInfo": "Informationen anfordern",
-      "btnCall": "Rufen Sie uns an"
-    }
+    "title": "Interessiert an einer zertifizierten Ausbildung?",
+    "description": "Kontaktieren Sie uns für weitere Informationen zu unseren Weiterbildungsprogrammen und beruflichen Zertifikaten, oder führen Sie jetzt Ihre Voranmeldung aus, indem Sie das entsprechende Formular ausfüllen.",
+    "btnInfo": "Zum Formular",
+    "btnCall": "Rufen Sie uns an"
+  }
   },
   "registration": {
     "title": "Registrierungsprozess",
@@ -261,10 +261,10 @@
     }
   },
   "footer": {
-    "brand": "Private Ibn Zohr Schule für Gesundheitswissenschaften",
+    "brand": "Ibn Zohr Schule für Gesundheitswissenschaften -Private-",
     "navigation": "Navigation",
     "contact": "Kontakt",
     "location": "Standort",
-    "copyright": "© 2026 Private Ibn Zohr Schule für Krankenpflegeausbildung. Alle Rechte vorbehalten."
+    "copyright": "© 2026 Ibn Zohr Schule für Gesundheitswissenschaften -Private-. Alle Rechte vorbehalten."
   }
 }

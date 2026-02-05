@@ -184,11 +184,11 @@
       }
     },
     "cta": {
-      "title": "¿Interesado en una formación certificada?",
-      "description": "Contáctenos para obtener más información sobre nuestros programas de formación continua y certificaciones profesionales.",
-      "btnInfo": "Solicitar información",
-      "btnCall": "Llamarnos"
-    }
+    "title": "¿Interesado en una formación certificada?",
+    "description": "Contáctenos para obtener más información sobre nuestros programas de formación continua y certificaciones profesionales, o realice su preinscripción ahora completando el formulario correspondiente.",
+    "btnInfo": "Acceder al formulario",
+    "btnCall": "Llamarnos"
+  }
   },
   "registration": {
     "title": "Proceso de inscripción",
@@ -258,10 +258,10 @@
     }
   },
   "footer": {
-    "brand": "Escuela Privada Ibn Zohr de Ciencias de la Salud",
+    "brand": "Escuela Ibn Zohr de Ciencias de la Salud -Privada-",
     "navigation": "Navegación",
     "contact": "Contacto",
     "location": "Ubicación",
-    "copyright": "© 2026 Escuela Privada Ibn Zohr de Formación en Enfermería. Todos los derechos reservados."
+    "copyright": "© 2026 Escuela Ibn Zohr de Ciencias de la Salud -Privada-. Todos los derechos reservados."
   }
 }

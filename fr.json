@@ -186,9 +186,10 @@
     },
     "cta": {
       "title": "Intéressé par une formation certifiée ?",
-      "description": "Contactez-nous pour plus d'informations sur nos programmes de formation continue et nos certifications professionnelles.",
-      "btnInfo": "Demander des informations",
-      "btnCall": "Nous appeler"
+"description": "Contactez-nous pour obtenir plus d'informations sur nos programmes de formation continue et nos certifications professionnelles, ou effectuez dès maintenant votre pré-inscription en remplissant le formulaire dédié.",
+"btnInfo": "Accéder au formulaire",
+"btnCall": "Nous appeler"
+
     }
   },
   "registration": {
