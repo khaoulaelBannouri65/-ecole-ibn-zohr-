@@ -502,7 +502,7 @@ a {
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
 
     /* NEW */
-    background-image: url('grils-boys_ibn_zohr.png'); /* path to your image */
+    background-image: url('img/grils-boys_ibn_zohr.png'); /* path to your image */
     background-size: cover;        /* cover the container */
     background-position: center;   /* center the image */
     background-repeat: no-repeat;

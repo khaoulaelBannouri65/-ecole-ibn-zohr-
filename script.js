@@ -511,7 +511,7 @@ class ActivitiesCarousel {
         return [
          {
       "id": 1,
-      "image": "integration.jpg",
+      "image": "img/integration.jpg",
       "title": {
         "fr": "Accueil des nouveaux étudiants",
         "ar": "يوم الإدماج للطلبة الجدد",
@@ -529,7 +529,7 @@ class ActivitiesCarousel {
     },
     {
       "id": 2,
-      "image": "enfants.jpg",
+      "image": "img/enfants.jpg",
       "title": {
         "fr": "Campagne de sensibilisation pour les enfants",
         "ar": "حملة توعية للأطفال",
@@ -547,7 +547,7 @@ class ActivitiesCarousel {
     },
     {
       "id": 3,
-      "image": "carnavas.jpg",
+      "image": "img/carnavas.jpg",
       "title": {
         "fr": "Caravanes éducatives",
         "ar": " قوافل طبية تحسيسية",
@@ -565,7 +565,7 @@ class ActivitiesCarousel {
     },
     {
       "id": 4,
-      "image": "atelier.jpg",
+      "image": "img/Atelier.jpg",
       "title": {
         "fr": "Simulation Médicale",
         "ar": "المحاكاة الطبية",
@@ -583,7 +583,7 @@ class ActivitiesCarousel {
     },
     {
       "id": 5,
-      "image": "stage.jpg",
+      "image": "img/stage.jpg",
       "title": {
         "fr": "Soins aux Patients",
         "ar": "رعاية المرضى",
@@ -601,7 +601,7 @@ class ActivitiesCarousel {
     },
     {
       "id": 6,
-      "image": "congratuation.jpg",
+      "image": "img/congratuation.jpg",
       "title": {
         "fr": "Soutenance des projets étudiants",
         "ar": "مناقشة بحوث التخرج",
