@@ -169,7 +169,7 @@
         ]
       },
       "emergency": {
-        "title": "Urgences et soins spécialisés",
+        "title": "Le secourisme et les gestes de premiers secours",
         "programs": [
           "Urgences et premiers secours",
           "Brancardier",
@@ -251,13 +251,13 @@
           "description": "Présentation générale de la profession et des compétences requises"
         },
         {
-          "title": "Comprendre la phase de la vieillesse(Allemande)",
-          "description": "Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
+          "title": "Das Alter neu denken",
+          "description": "Die physischen, psychologischen und sozialen Aspekte des Alterns erforschen, um diese Lebensphase besser zu verstehen."
 
         },
          {
-          "title": "Comprendre la phase de la vieillesse(Arabe)",
-          "description": "Explorer les aspects physiques, psychologiques et sociaux de la vieillesse pour mieux comprendre cette étape de la vie."
+          "title": "فهم مرحلة الشيخوخة",
+          "description": " استكشاف الجوانب الجسدية والنفسية والاجتماعية للشيخوخة من أجل فهم هذه المرحلة من الحياة بشكل أفضل."
 
         }
       ]

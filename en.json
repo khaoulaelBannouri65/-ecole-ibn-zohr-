@@ -169,7 +169,7 @@
         ]
       },
       "emergency": {
-        "title": "Emergency and Specialized Care",
+        "title": "Emergency and First Aid",
         "programs": [
           "Emergency and first aid",
           "Stretcher bearer",
@@ -252,12 +252,12 @@
           "description": "General presentation of the profession and required skills"
         },  
         {
-          "title": "Understanding the Aging Process (in German)",
-          "description": "Exploring the physical, psychological and social aspects of aging for a better understanding of this stage of life."
+          "title": "Das Alter neu denken",
+          "description": "Die physischen, psychologischen und sozialen Aspekte des Alterns erforschen, um diese Lebensphase besser zu verstehen."
         },
         {
-          "title": "Understanding the Aging Process (in Arabic)",
-          "description": "Exploring the physical, psychological and social aspects of aging for a better understanding of this stage of life."
+          "title": "فهم مرحلة الشيخوخة",
+          "description": " استكشاف الجوانب الجسدية والنفسية والاجتماعية للشيخوخة من أجل فهم هذه المرحلة من الحياة بشكل أفضل."
         }
       ]
     }

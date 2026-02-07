@@ -208,6 +208,8 @@
       }
     ],
     "forms": {
+       "title": "Formularios de preinscripción",
+      "subtitle": "Seleccione el formulario que corresponda a su programa de interés",
       "general": {
         "title": "Formulario de preinscripción",
         "description": "Formulario general para todas las ramas (IP / AS)",
@@ -247,12 +249,12 @@
           "description": "Presentación general de la profesión y competencias requeridas"
         },
         {
-          "title": "Comprender el proceso de envejecimiento (en alemán)",
-          "description": "Exploración de los aspectos físicos, psicológicos y sociales del envejecimiento para una mejor comprensión de esta etapa de la vida."
+          "title": "Das Alter neu denken",
+          "description": "Die physischen, psychologischen und sozialen Aspekte des Alterns erforschen, um diese Lebensphase besser zu verstehen."
         },
         {
-          "title": "Comprender el proceso de envejecimiento (en árabe)",
-          "description": "Exploración de los aspectos físicos, psicológicos y sociales del envejecimiento para una mejor comprensión de esta etapa de la vida."
+          "title": "فهم مرحلة الشيخوخة",
+          "description": " استكشاف الجوانب الجسدية والنفسية والاجتماعية للشيخوخة من أجل فهم هذه المرحلة من الحياة بشكل أفضل."
         }
       ]
     }
